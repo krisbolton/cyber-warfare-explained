@@ -117,11 +117,9 @@ a {
 	padding-bottom: .125em;
 }
 
-a:hover {
-    color: $color-material-blue;
-}
-
-a:focus {
+a:hover,
+a:focus,
+a:active {
     color: $color-material-blue;
 }
 
@@ -304,3 +302,30 @@ ol {
         margin-bottom: 0.5rem;
     }
 }
+
+/* ----- Cookie consent banner ----- */
+
+    #cookie-notice {
+        padding: 0.5rem 1rem; 
+        display: none; 
+        text-align: center; 
+        position: fixed; 
+        bottom: 0; 
+        width: 100%; 
+        background: #222; 
+        color: rgba(255,255,255,0.8);
+    }
+    #cookie-notice a {
+        display: inline-block; 
+        cursor: pointer; 
+        margin-left: 0.5rem;
+    }
+    @media (max-width: 767px) {
+        
+        #cookie-notice span {
+            display: block; 
+            padding-top: 3px; 
+            margin-bottom: 1rem;
+        }
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }

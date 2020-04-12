@@ -75,6 +75,8 @@
 	}
 }
 
+//Used within glossary as back to top button.
+
 .btn--small {
 	float: right;
     color: $color-white;
@@ -93,4 +95,38 @@
         color: $color-white;
 		background-color: $color-material-light-blue;
 	}
+}
+
+//Buttons on the cookie consent banner.
+
+.btn--consent-approve {
+    color: $color-dark;
+    font-size: $font-size-small;
+	background-color: $color-yellow;
+	padding: 0.4rem 0.8rem;
+	transition: color .2s, background-color .2s;
+
+	@media (min-width: $screen-sm-min) {
+		padding: 0.4rem 0.8rem;
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+        color: $color-dark;
+		background-color: $color-light-yellow;
+	}
+}
+
+//Consent link next to cookie consent approve button.
+//NOT a button.
+
+.consent-link {
+    color: $color-material-light-blue;
+    
+    &:hover,
+    &:focus,
+    &:active {
+        color: $color-material-double-light-blue;
+    }
 }
