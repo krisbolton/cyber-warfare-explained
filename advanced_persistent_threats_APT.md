@@ -54,7 +54,7 @@ Advanced threat actors target entities for a varity of reasons; to gather intell
 
 # List of APTs
 
-Only countries who's offensive cyber activities have been discovered are included here. If you believe there is an omission please get in touch. *Last updated: Jan 2020.*
+Only countries who's offensive cyber activities have been discovered are included here. If you believe there is an omission please <a href="mailto:cyberwarfareexplained@gmail.com">get in touch</a>. *Last updated: Jan 2020.*
 
 # China
 

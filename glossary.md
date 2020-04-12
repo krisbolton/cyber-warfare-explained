@@ -55,6 +55,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>0-day</h5>
 <p>See <a href="#zero-day"><i>Zero-day</i></a>.</p>
 
+<h5>5G</h5>
+<p></p>
+
 <h5>14 Eyes</h5>
 <p>See <a href="#sigint-seniors"><i>SIGINT Seniors</i></a></p>
 
@@ -200,6 +203,9 @@ Defence-in-Depth (DiD)
 <h3 id="I">I</h3>
 <h5 id="ieee">Institute of Electrical and Electronics Engineers (IEEE)</h5>
 <p>A professional organisation for electrical and electronics engineers. IEEE publishes the largest amount of research literature relating to electronic and electrical engineering and computer science in the world in its journals.</p>
+
+<h5>Internet of Things (IoT)</h5>
+<p></p>
 
 <h5 id="ip">Internet Protocol</h5>
 <p>The principal <a href="#communication-protocol"><i>communications protocol</i></a> in the <a href="#ip-suite"><i>Internet protocol suite</i></a> for relaying data across network boundaries.</p>

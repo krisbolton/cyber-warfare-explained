@@ -4,10 +4,10 @@
 
 /* ----- General ----- */
 .section {
-	padding: 3.75rem 0 (3.75rem - 1.25rem) 0;
+	padding: 2.25rem 0 (2.25rem - 1.25rem) 0; //defaults were approx. 1.45rem higher on top & bottom margin.
 
 	@media (min-width: $screen-sm-min) {
-		padding: 6.25rem 0 (6.25rem - 1.25rem) 0;
+		padding: 4.75rem 0 (4.75rem - 1.25rem) 0;
 	}
 }
 

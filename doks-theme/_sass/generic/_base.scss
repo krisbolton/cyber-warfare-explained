@@ -284,15 +284,12 @@ button {
         margin-right: 0.7rem;
         margin-bottom: 10px !important;
         
-    } a:hover {
-        color: $color-material-blue;
-        
-    } a:focus {
-        color: $color-material-blue;
-        
-    } a:active {
-        color: $color-material-blue;
-    }
+    } a:hover,
+      a:focus,
+      a:active {
+          
+        color: $color-material-blue;  
+    } 
 }
 
 #alphabet-nav-sec-two {

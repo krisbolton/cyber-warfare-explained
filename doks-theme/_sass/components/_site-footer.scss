@@ -37,9 +37,10 @@
     
     a {
         color: #8a8a8a;
-    } a:hover {
+    } 
+    
+    a:hover,
+    a:focus {
         color: $color-material-blue;
-    } a:focus {
-        color: $color-material-blue;
-    }
+    } 
 }
