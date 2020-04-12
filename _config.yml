@@ -20,7 +20,7 @@ doks:
             logo:
                 text: Cyber Warfare Today
                 image:
-            copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="mailto:cyberwarfareexplained@gmail.com">Contact</a>
+            copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="mailto:cyberwarfaretoday@gmail.com">Contact</a>
         social_list:
             - network_name: twitter
               profile_url: 'https://twitter.com/krisbolton'

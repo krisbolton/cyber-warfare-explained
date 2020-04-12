@@ -22,7 +22,7 @@ This work does not support any political ideology, nor does it seek to undermine
 
 # Who
 
-In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I work in private sector cyber security in the United Kingdom. I hold an MSc in Cyber Security from Wolverhampton Cyber Security Institute (WCRI), where I focused on nation-state cyber threats and the use of artificial intelligence to track advanced threats within networks. I have a technical background in Computer Science (BSc). You can find me @KrisBolton on Twitter.
+In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I work in private sector cyber security in the United Kingdom. I hold an MSc in Cyber Security from Wolverhampton Cyber Security Institute (WCRI), where I focused on nation-state cyber threats and the use of artificial intelligence to track advanced threats within networks. I have a technical background in Computer Science (BSc). You can find me @KrisBolton on Twitter or <a href="mailto:cyberwarfaretoday@gmail.com">contact me via email</a>.
 
 ---
 
