@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Cyber Warfare Explained
-description: A comprehensive dive into the hidden world of Cyber Warfare.
+title: Cyber Warfare Today
+description: A comprehensive dive into the hidden world of cyber warfare.
 
 buttons:
     - content: Start with the Introduction
@@ -15,7 +15,7 @@ buttons:
 # Grid navigation
 grid_navigation:
     - title: Introduction to Cyber Warfare
-      excerpt: Does Cyber War even exist? An introduction to cyber warfare.
+      excerpt: Does cyber war even exist? An introduction to cyber warfare.
       cta: Read now
       url: '/introduction'
     - title: Conducting a Cyber Attack
