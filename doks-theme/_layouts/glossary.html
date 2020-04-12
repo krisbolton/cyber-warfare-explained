@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<html>
+	<head>
+		{% include site-head.html %}
+	</head>
+	<body class="{{ site.doks.color_theme }}" data-spy="scroll" data-target=".js-scrollspy">
+		{% include site-header.html %}
+		<div class="hero-subheader">
+			<div class="container" role="banner">
+				<div class="row">
+					<div class="col-md-7">
+						<div class="align-container" data-mh>
+							<div class="align-inner">
+								{% if page.title %}
+									<h1 class="hero-subheader__title">{{ page.title }}</h1>
+								{% endif %}
+								{% if page.description %}
+									<p class="hero-subheader__desc">{{ page.description }}</p>
+								{% endif %}
+							</div><!-- /.align-inner -->
+						</div><!-- /.align-container -->
+					</div><!-- /.col -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.hero-subheader -->
+		<div class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-7">
+						<div class="content" role="main">
+							{{ content }}
+						</div><!-- /.content -->
+					</div><!-- /.col -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /.section -->
+		<div class="js-footer-area" role="contentinfo">
+			{% include site-footer.html %}
+		</div><!-- /.js-footer-area -->
+	</body>
+</html>

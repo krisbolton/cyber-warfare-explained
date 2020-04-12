@@ -1,0 +1,95 @@
+---
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
+title: Conducting a Cyber Attack
+description: How and why nations conduct cyber attacks.
+
+# Micro navigation
+micro_nav: true
+
+# Page navigation
+page_nav:
+    prev:
+        content: Previous Chapter
+        url: '/introduction'
+    next:
+        content: Next Chapter
+        url: '/advanced_persistent_threats_APT'
+---
+
+<style>p { text-align: justify; }</style>
+
+# Chapter Introduction
+
+This chapter discusses part of the why nations conduct offensive cyber operations through the discussion of  scenario based attacks which a threat actor might conduct against a target.
+
+# Planning an Attack
+
+Attack orders are unlikely to come from Presidents or Prime Ministers, except in times of crisis (US-Iran drone retaliation), cyber war is a day-to-day activity for national Militaries, Government organisations and state-affiliated organisations, such as Unit 61398 of the People Liberation Amry (PLA), Cyber Command (US), Strategic Command (UK)(Formerly Joint Forces Command), or a private-state collaberation as seen with [NAME].
+
+'Advanced' threat actors follow a similar attack method to typical <a href="">"black hat"</a> hackers, the major differences are the cyclical nature of the attack, the level of skill (advanced) which is due to the size of the organisation behind the attack and the sustained motivation (persistence) of the attackers. Hence the acrynm often used to describe state and state-sponsored actors, Advanced Persistent Threat (APT).
+
+[IMAGE]
+
+
+# Historic Scenarios
+Scenarios from recent history.
+## Scenario One
+### An Industrial Target
+
+
+Steal designs
+Disrupt
+Retribution
+
+
+## Scenario Two
+### A Telecoms Target
+
+Steal subscriber information
+Target individual
+Build database
+
+
+## Scenario Three
+### Broad Target(s)
+
+Shotgun approach, WannaCry
+
+
+# Future Scenarios
+Example scenarios exploring possible future actions.
+## Scenario Four
+### A Military Target
+
+
+Disruption
+Domination
+
+
+## Scenario Five
+### Farming?
+
+At first glance, Farming may appear to be immune from the issues surrounding cyber security. Upon closer inspection, farming represents a high impact (strategic and economic) target with significant use of technology at every level of production and supply. However, this scenario will not focus on the more obvious technology exploitation and will instead explore the manipulation of public opinion through computational propoganda. This type of 'attack' appears unlikely and incomprehensible to the public being manipulated would find this difficult to beleive. The more a campaign is reminicent of a conspiracy theory, the more operational protection it is afforded by a cloak of confusion and deniability. The public, often a pressure on politicans - the tools that are often required to take action at a national level - are unaware, unsure or deny, security services are slowed attempting to desern what is real and what is not,.
+
+# Shared Tools and Services?
+
+Threat actors regularly share tools, not because they are in contact, but by the nature of the internet, open source community and programming culture. 
+
+---
+
+**Foot Notes**
+
+<ol>
+    <li></li>
+
+</ol>
+
+**References**
+
+
+
