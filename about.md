@@ -14,6 +14,8 @@ description: A breif oveview of the project and a roadmap of content to come.
 
 Cyber warfare, including disinformation and cyber attacks affect most developed nations. As new techniques emerge and new doctorines are tested they are also increasingly affecting citizens day-to-day activities (WannaCry; UK access to medical care; numerous ransomware incidents in US cities) and important institutions and democratic proceeses (Russian disinfomation; US Presidential Election 2016, Brexit 2016-19, Ukraine Election 2019). This book aims to explore the why, what and how of cyber warfare for general interest and in the hopes better understanding will empower individuals to take action to secure their nations, guard international order and encourage cooperation between states.
 
+The <a href="/articles">articles</a> section is designed to expand on the main content and discuss topical issues and subjects of interest in finer detail.
+
 # Statement
 
 This work does not support any political ideology, nor does it seek to undermine or promote any nation, group, organisation or person. References are from credible sources.
@@ -28,7 +30,7 @@ In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I
 
 There are currently three complete chapters (although new examples and material are added periodically): Introduction to Cyber Warfare, Conducting a Cyber Attack, and Advanced Persistent Threat (APT).
 
-Approximately eight chapters remain:
+Approximately nine chapters remain:
 
 <ol>
     <li>Cyber Threatcasting</li>
@@ -39,4 +41,5 @@ Approximately eight chapters remain:
     <li>The Problem of Attribution</li>
     <li>Disruption</li>
     <li>The Future</li>
+    <li>Further Reading</li>
 </ol>

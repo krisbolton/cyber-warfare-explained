@@ -86,9 +86,7 @@
 				<div class="row">
 					<div class="col-md-7">
 						<div class="content" role="main">
-							<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare.</p>
-
-<p>Technical terms are included to allow a more complete understanding of cyber attacks and <em>how</em> they work, should the reader wish. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
+							<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
 
 <p><code>ctrl + f</code> can be used to find specific words quickly.</p>
 
@@ -132,11 +130,8 @@
 <h5>0-day</h5>
 <p>See <a href="#zero-day"><i>Zero-day</i></a>.</p>
 
-<h5>4G</h5>
-<p>The fourth generation of wireless communication technology supporting cellular/mobile data networks, succeeding 3G. 4G offers a significant bandwidth over 3G.</p>
-
 <h5>5G</h5>
-<p>The fifth generation of wireless communications technologies supporting cellular/mobile data network. 5G is considered disruptive with its combination with the <a href=""><i>Internet of Things (IoT)</i></a>, increased bandwidth and low latency will allow devices to migrate to wireless connections which were not able to with 4G.</p>
+<p>The fifth generation of wireless communications technologies supporting cellular/mobile data networks. 5G is considered disruptive in combination with the <a href=""><i>Internet of Things (IoT)</i></a>; increased bandwidth and low latency will allow devices to adopt wireless connections where they were not able to with 4G.</p>
 
 <h5>14 Eyes</h5>
 <p>See <a href="#sigint-seniors"><i>SIGINT Seniors</i></a></p>
@@ -158,8 +153,8 @@
 <h5>APT</h5>
 <p>A threat actor, typically a nation state or <a href="#state-sponsor"><i>state-sponsored</i></a> group, which gains unauthorized access to a computer network and remains undetected for an extended period. The tools used (often <a href="#zero-day"><i>zero-days</i></a>) and scale of resources they have access to indicates the "advanced" nature.</p>
 
-<h5>Assembly language</h5>
-<p></p>
+<h5 id="assembly">Assembly language</h5>
+<p>A <a href="#low-level"><i>"low-level"</i></a> programming language designed for a specific processor architecture. May also be called "assembler". See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
 
 <h5>Attribution</h5>
 <p>The process of determining who conducted an action. In security this is often measured in degrees of confidence, rather than an absolute statement.</p>
@@ -177,9 +172,6 @@
 
 <h5 id="bit">Bit</h5>
 <p>The basic unit of computing. A binary digit representing one of two states, 1 or 0.</p>
-
-<h5>Bootloader</h5>
-<p></p>
 
 <h5 id="botnet">Botnet</h5>
 <p>A number of internet-connected devices running one or more remotely-controlled systems. They are used to perform malicious activities, such as <a href="#ddos"><i>Distributed Denial of Service (DDoS)</i></a> or deliver spam.</p>
@@ -199,7 +191,7 @@
 
 <h3 id="C">C</h3>
 <h5>C (langauge)</h5>
-<p>A general-purpose programming language. C provides constructs that map efficiently to typical <a href="#machine-instruction"><i>machine instructions</i></a> and has found lasting use in applications previously (prior to ~1980) coded in <a href="#assembly"><i>assembly language</i></a>. For example, operating systems and software running on <a href="#embedded-systems"><i>embedded systems</i></a>. See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
+<p>A general-purpose programming language. C provides constructs that map efficiently to typical <a href="#machine-code"><i>machine instructions</i></a> and has found lasting use in applications previously (prior to ~1980) coded in <a href="#assembly"><i>assembly language</i></a>. For example, operating systems and software running on <a href="#embedded-systems"><i>embedded systems</i></a>. See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
 
 <h5 id="c4isr">C4ISR</h5>
 <p>Acronym. Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance. Usually used within a military context.</p>
@@ -210,8 +202,8 @@
 <h5 id="client">Client</h5>
 <p>Computer hardware or software that accesses a service made available by a <a href="#server"><i>server</i></a>. For example, a web browser is a client which accesses web servers.</p>
 
-<h5 id="c&amp;c">Command &amp; Control (C&amp;C)</h5>
-<p></p>
+<h5 id="c&amp;c">Command &amp; Control (C&amp;C) Server</h5>
+<p>A computer controlled by a threat actor which is used to send commands to systems compromised by <a href="#malware"><i>malware</i></a>. <a href="#botnet"><i>Botnets</i></a> will have one or more C&amp;C servers.</p>
 
 <h5 id="communication-protocol">Communication Protocol</h5>
 <p>A formal set of rules that allow two or more tentities to exchange information. The rules define syntax, semantics, synchronization of communication and errors.</p>
@@ -225,18 +217,19 @@
 
 <h3 id="D">D</h3>
 <h5>Defence-in-Depth (DiD)</h5>
-<p></p>
+<p>A multi-layered defense concept where valuable assets are surrounded by many layers of security. This increases the difficulty of attack in effort, time and financial cost to an attcker.</p>
 
-<p>Denial of Service (DoS)</p>
+<h5>Denial of Service (DoS)</h5>
+<p>A type of cyber-attack or incident which interrupts the delivery of a service over a network. Also see <a href="#ddos"><i>Distributed Denial of Servicce (DoS)</i></a>.</p>
 
 <h5 id="ddos">Distributed Denial of Servicce (DoS)</h5>
-<p></p>
+<p>A cyber-attack in which a threat actor seeks to make a machine or network resource unavailable to its intended users by saturating the network connection to the resource with requests from multiple machines. This is typically done with <a href="#botnet"><i>botnets</i></a>.</p>
 
 <h5>DNS</h5>
 <p>A hierarchical and decentralized naming system for computers, services or other resources connected to the <a href="#internet"><i>internet</i></a> or a private network. DNS translates human-readable addresses (www.google.com) into machine-readable <a href="#ip-address"><i>IP addresses</i></a> (172.217.169.46) from a globally distributed directory.</p>
 
 <h5>Driver</h5>
-<p></p>
+<p>A device driver is software that operates a particular type of device that is attached to a computer. This means new hardware can be added to a computer without the operating system knowing details of the device. For example, when a new printer is connected, a computer will typically download drivers to allow it to work, users may have to manually install these.</p>
 
 <p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
@@ -244,32 +237,29 @@
 
 <h3 id="E">E</h3>
 <h5>Embedded system</h5>
-<p></p>
+<p>An embedded system is a combination of computer hardware and software, either fixed in capability or programmable, designed for a specific function or functions within a larger system. These systems are usually limited in processing power and memory due to their function.</p>
 
 <h5 id="entry-point">Entry point</h5>
 <p>The location where malware or a malicious user entered a system. The initial system where a malicious user or file was found may not be its intended target, see <a href="#pivot"><i>pivot</i></a>.</p>
-
-<h5>Encryption</h5>
-<p></p>
 
 <h5 id="exabyte">Exabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Exa" indicates multiplication by the sixth power of 1000 or 10<sup>18</sup>. An extabyte (EB) is a measure of storage capacity equal to approximately 1,000 petabytes (PB), a million terabytes (TB) or a billion gigabytes (GB).</p>
 
 <h5>Exploit</h5>
-<p></p>
+<p>A piece of software or a sequence of commands that takes advantage of a <a href="#vulnerability"><i>vulnerability</i></a> to cause unintended or unanticipated behavior to occur in computer software or hardware.</p>
 
 <p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
 <h3 id="F">F</h3>
-<h5>Fireware</h5>
+<h5>Firmware</h5>
 <p></p>
 
 <h5>FIVE EYES (FVEY)</h5>
 <p></p>
 
-<h5>FTP</h5>
+<h5>File Transfer Protocol (FTP)</h5>
 <p></p>
 
 <p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
@@ -295,7 +285,7 @@
 <p>An algorithm performed on data (such as a file) produce a unique number called a hash. Hashes can be used to compare files, for example to determine if a file is the same <a href="#virus-signiture"><i>signiture</i></a> as a known malicious file.</p>
 
 <h5>Hypervisor</h5>
-<p></p>
+<p>Software that creates and runs <a href="#virtual-machine"><i>virtual machines</i></a>. May also be used to refer to the machine running the software.</p>
 
 <p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
@@ -313,6 +303,9 @@
 
 <h5 id="ip-address">IP address</h5>
 <p>An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. IP addresses identify the host or network interface and its location on the network.</p>
+
+<h5>Infrastructure-as-a-Service (IaaS)</h5>
+<p></p>
 
 <h5 id="iso">International Organization for Standardization (ISO)</h5>
 <p>An international standard-setting body composed of representatives from various national standards organizations. ISO is not an acronym, it is derived from the Greek isos, meaning equal, to make a unified short name between languages. For an example ISO standard, see <a href="#iso-27001"><i>ISO 27001</i></a>.</p>
@@ -366,6 +359,9 @@
 <h5>Local Area Network (LAN)</h5>
 <p>A computer network that links devices within a building or group of adjacent buildings.</p>
 
+<h5 id="low-level">"Low-level"</h5>
+<p>Refers to a low-level of abstraction. For example, "Low-level programming language", meaning the language interacts directly with hardware (e.g. <a href=""><i>C</i></a>), or runs directly on the hardware (e.g. <a href="#assembly"><i>assembly</i></a> or <a href="#machine-code"><i>machine code</i></a>). See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
+
 <h5>Linux</h5>
 <p></p>
 
@@ -374,11 +370,11 @@
 <!-- -->
 
 <h3 id="M">M</h3>
-<h5>Machine instructions</h5>
-<p></p>
+<h5 id="machine-code">Machine code</h5>
+<p>A set of instructions, specific to a particular processor architecture, which can be executed directly on a Central Processing Unit (CPU). A strictly numerical language intended to run as fast as possible within the limited-memory environment of a CPU.</p>
 
 <h5 id="macro">Macro</h5>
-<p>A type of programme used to eliminate the need to repeat the steps of common tasks within certain software applications – such as adding or removing rows and columns a spreadsheet. Malware may use macros as an <a href="#entry-point"><i>entry point</i></a>, as they often run or are clicked by a user upon opening a spreadsheet or word file.</p>
+<p>A type of program used to eliminate the need to repeat the steps of common tasks within certain software applications – such as adding or removing rows and columns a spreadsheet. Malware may use macros as an <a href="#entry-point"><i>entry point</i></a>, as they often run or are clicked by a user upon opening a spreadsheet or word file.</p>
 
 <h5>Macro virus</h5>
 <p>A <a href="#virus"><i>virus</i></a> which uses the <a href="#macro"><i>macro</i></a> capabilities of common applications such as spreadsheets and word processors to infect systems.</p>
@@ -402,9 +398,6 @@
 
 <h5>NCI Agency</h5>
 <p>The <a href="#nato"><i>NATO</i></a> Communications and Information (NCI) Agency responsible for NATO <a href="#c4isr"><i>C4ISR</i></a>, including consultation and training.</p>
-
-<h5 id="non-persistent-memory">Non-persistent memory</h5>
-<p></p>
 
 <h5>Non-repudiation</h5>
 <p>The ability to prove that a specific individual has carried out an activity on a computer or online, so that it cannot later be denied.</p>
@@ -443,14 +436,14 @@
 <!-- -->
 
 <h3 id="P">P</h3>
-<h5>Persistent memory</h5>
-<p></p>
-
 <h5 id="petabyte">Petabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Peta" indicates multiplication by the fifth power of 1000 or 10<sup>15</sup>. A petabyte (PB) is a measure of storage capacity equal to approximately 1,000 terabytes (TB), a million gigabytes (GB) or a billion megabytes (MB).</p>
 
 <h5 id="pivot">Pivot</h5>
 <p>A technqiue where an attacker uses one system to gain access to another.</p>
+
+<h5>Platform-as-a-Service (PaaS)</h5>
+<p></p>
 
 <h5 id="protocol">Protocol</h5>
 <p>See <a href="#communication-protocol">communication protocol<i></i></a>.</p>
@@ -496,6 +489,9 @@
 
 <h5 id="sigint-seniors">SIGINT Sensiors</h5>
 <p>An international alliance of intelligence agencies collaberating on global security.</p>
+
+<h5>Software-as-a-Service (SaaS)</h5>
+<p>A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted in the cloud. Examples, include Google Apps - Google Docs, Google Sheets, etc.</p>
 
 <h5>Spyware</h5>
 <p><a href="#malware"><i>Malware</i></a> that passes information about a user’s activity to an external entity.</p>
