@@ -10,8 +10,6 @@ description: A breif oveview of the project and a roadmap of content to come.
 
 ---
 
-<style>p { text-align: justify; }</style>
-
 # Purpose
 
 Cyber warfare, including disinformation and cyber attacks affect most developed nations. As new techniques emerge and new doctorines are tested they are also increasingly affecting citizens day-to-day activities (WannaCry; UK access to medical care; numerous ransomware incidents in US cities) and important institutions and democratic proceeses (Russian disinfomation; US Presidential Election 2016, Brexit 2016-19, Ukraine Election 2019). This book aims to explore the why, what and how of cyber warfare for general interest and in the hopes better understanding will empower individuals to take action to secure their nations, guard international order and encourage cooperation between states.

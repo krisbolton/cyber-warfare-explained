@@ -10,15 +10,13 @@ description: A plain-english privacy policy.
 
 ---
 
-<style>p { text-align: justify; }</style>
-
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit www.cyberwarfare.today (the “Site”).
 
 <h3>Personal Information We Collect</h3>
 
 <p>When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”</p>
 
-<p>We collect Device Information using <em>“Cookies”</em>em>. Cookies are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies visit <a href="http://www.allaboutcookies.org">All About Cookies (External Link)</a>.</p>
+<p>We collect Device Information using <em>“Cookies”</em>. Cookies are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies visit <a href="http://www.allaboutcookies.org" target="_blank">All About Cookies (External Link)</a>.</p>
 
 <h3>How Do We use Personal Information?</h3>
 
@@ -28,7 +26,7 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 <h3>Sharing Your Personal Information</h3>
 
-<p>We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Google Analytics to help us understand how our customers use the Site - you can read more about how Google uses your Personal Information on <a href="https://www.google.com/intl/en/policies/privacy/">Google's Privacy Policy (External Link)</a>.</p>
+<p>We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Google Analytics to help us understand how our customers use the Site - you can read more about how Google uses your Personal Information on <a href="https://www.google.com/intl/en/policies/privacy/" target="_blank">Google's Privacy Policy (External Link)</a>.</p>
 
 <p>Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful requests for information we receive, or to otherwise protect our rights.</p>
 

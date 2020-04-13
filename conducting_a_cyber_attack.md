@@ -21,8 +21,6 @@ page_nav:
         url: '/advanced_persistent_threats_APT'
 ---
 
-<style>p { text-align: justify; }</style>
-
 # Chapter Introduction
 
 This chapter discusses part of the why nations conduct offensive cyber operations through the discussion of  scenario based attacks which a threat actor might conduct against a target.

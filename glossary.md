@@ -10,9 +10,10 @@ description: A list of words and their definitions relating to cyber warfare.
 
 ---
 
-<style>p { text-align: justify; }</style>
+<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare.</p> 
+    
+<p>Technical terms are included to allow a more complete understanding of cyber attacks and <em>how</em> they work, should the reader wish. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
 
-<p id="top">This glossary attempts to represent a complete list of cyber security related words and terms and their definitions in the context of cyber warefare. It does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
 <p><code>ctrl + f</code> can be used to find specific words quickly.</p>
 
 <hr class="hr-space-surround">
@@ -55,8 +56,11 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>0-day</h5>
 <p>See <a href="#zero-day"><i>Zero-day</i></a>.</p>
 
+<h5>4G</h5>
+<p>The fourth generation of wireless communication technology supporting cellular/mobile data networks, succeeding 3G. 4G offers a significant bandwidth over 3G.</p>
+
 <h5>5G</h5>
-<p></p>
+<p>The fifth generation of wireless communications technologies supporting cellular/mobile data network. 5G is considered disruptive with its combination with the <a href=""><i>Internet of Things (IoT)</i></a>, increased bandwidth and low latency will allow devices to migrate to wireless connections which were not able to with 4G.</p>
 
 <h5>14 Eyes</h5>
 <p>See <a href="#sigint-seniors"><i>SIGINT Seniors</i></a></p>
@@ -66,38 +70,46 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="A">A</h3>
+<h5 id="abstraction">Abstraction</h5>
+<p>The act of representing essential features without including the background details or explanations. For example, all computer programs ultimately store and manipulate data using 1s and 0s (<a href="#machine-code"><i>machine code</i></a>), this complexity is removed by <a href="#assembly-language"><i>assembly lanuage</i></a>. Turning a very long string of binary digits into a more human-readable instruction such as <code>mov</code> (move). This is still complex and unweidly, so programming languages such as <a href="#c-language"><i>C</i></a> abstract and build on these instructions. Modern programming languages (e.g. Java, Python, C#) go furhter still and offer increased functionality, new paradigms and a significant number of pre-made functions.</p>
+
 <h5 id="actor">Actor</h5>
 <p>Also called threat actor or malicious actor. An entity that is responsible for an event or incident that impacts, or has the potential to impact, the safety or security of another entity or system. Can be an individual or group.</p>
 
 <h5>APT</h5>
 <p>A threat actor, typically a nation state or <a href="#state-sponsor"><i>state-sponsored</i></a> group, which gains unauthorized access to a computer network and remains undetected for an extended period. The tools used (often <a href="#zero-day"><i>zero-days</i></a>) and scale of resources they have access to indicates the "advanced" nature.</p>
 
-<h5>Attribution</h5>
+<h5>Assembly language</h5>
 <p></p>
+
+<h5>Attribution</h5>
+<p>The process of determining who conducted an action. In security this is often measured in degrees of confidence, rather than an absolute statement.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="B">B</h3>
 <h5>Back door</h5>
 <p>A loophole that allows access to a system through hidden means. Created by a programs developers or added by hackers for illicit purposes. See <a href="#vulnerability"><i>vulnerability</i></a> for unintentional system access.</p>
 
 <h5>Bare metal</h5>
-<p></p>
+<p>The phrase is often used in two contexts; refering to layers of abstraction, or distinguishing between virtualisation and non-virtualisation. Software and many programming languages abstract away the underlying conplexity, "interacting with bare metal" refers to the increased complexity of programming with languages that operate at lower layers of abstraction (See C). Non-virtual servers ("dedicated servers") may be refered to as "bare metal".</p>
 
 <h5 id="bit">Bit</h5>
 <p>The basic unit of computing. A binary digit representing one of two states, 1 or 0.</p>
 
-<h5 id="botnet">Botnet</h5>
+<h5>Bootloader</h5>
 <p></p>
+
+<h5 id="botnet">Botnet</h5>
+<p>A number of internet-connected devices running one or more remotely-controlled systems. They are used to perform malicious activities, such as <a href="#ddos"><i>Distributed Denial of Service (DDoS)</i></a> or deliver spam.</p>
 
 <h5>Bridge</h5>
-<p></p>
-
+<p>A computer networking device that creates a single aggregate network from multiple communication networks or network segments.</p>
 
 <h5>BSD</h5>
 <p>Berkeley Software Distribution (BSD) was an operating system based on an early version of <a href="#unix"><i>Unix</i></a>, developed at the University of California, Berkeley. Today, "BSD" often refers to its descendants, such as FreeBSD, <a href="#openbsd"><i>OpenBSD</i></a>, NetBSD, or DragonFly BSD, and systems based on those descendants.</p>
@@ -107,14 +119,17 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="C">C</h3>
 <h5>C (langauge)</h5>
-<p></p>
+<p>A general-purpose programming language. C provides constructs that map efficiently to typical <a href="#machine-instruction"><i>machine instructions</i></a> and has found lasting use in applications previously (prior to ~1980) coded in <a href="#assembly"><i>assembly language</i></a>. For example, operating systems and software running on <a href="#embedded-systems"><i>embedded systems</i></a>. See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
 
 <h5 id="c4isr">C4ISR</h5>
 <p>Acronym. Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance. Usually used within a military context.</p>
+
+<h5>Capture the Flag (CTF)</h5>
+<p>A challenge designed for individuals or teams to discover 'flags' within a computer system, typically specific words or strings of characters, proving the user or team has successfully beaten the challenge. For example, cracking a password to access an account, revealing a flag to prove the password was cracked.</p>
 
 <h5 id="client">Client</h5>
 <p>Computer hardware or software that accesses a service made available by a <a href="#server"><i>server</i></a>. For example, a web browser is a client which accesses web servers.</p>
@@ -130,10 +145,18 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="D">D</h3>
-Defence-in-Depth (DiD)
+<h5>Defence-in-Depth (DiD)</h5>
+<p></p>
+
+Denial of Service (DoS)
+
+<h5 id="ddos">Distributed Denial of Servicce (DoS)</h5>
+<p></p>
+
+
 
 <h5>DNS</h5>
 <p>A hierarchical and decentralized naming system for computers, services or other resources connected to the <a href="#internet"><i>internet</i></a> or a private network. DNS translates human-readable addresses (www.google.com) into machine-readable <a href="#ip-address"><i>IP addresses</i></a> (172.217.169.46) from a globally distributed directory.</p> 
@@ -143,9 +166,12 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="E">E</h3>
+<h5>Embedded system</h5>
+<p></p>
+
 <h5 id="entry-point">Entry point</h5>
 <p>The location where malware or a malicious user entered a system. The initial system where a malicious user or file was found may not be its intended target, see <a href="#pivot"><i>pivot</i></a>.</p>
 
@@ -162,9 +188,12 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="F">F</h3>
+<h5>Fireware</h5>
+<p></p>
+
 <h5>FIVE EYES (FVEY)</h5>
 <p></p>
 
@@ -173,7 +202,7 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="G">G</h3>
 <h5>Gateway</h5>
@@ -184,7 +213,7 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="H">H</h3>
 <h5>Hacker</h5>
@@ -198,14 +227,11 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="I">I</h3>
 <h5 id="ieee">Institute of Electrical and Electronics Engineers (IEEE)</h5>
 <p>A professional organisation for electrical and electronics engineers. IEEE publishes the largest amount of research literature relating to electronic and electrical engineering and computer science in the world in its journals.</p>
-
-<h5>Internet of Things (IoT)</h5>
-<p></p>
 
 <h5 id="ip">Internet Protocol</h5>
 <p>The principal <a href="#communication-protocol"><i>communications protocol</i></a> in the <a href="#ip-suite"><i>Internet protocol suite</i></a> for relaying data across network boundaries.</p>
@@ -222,6 +248,9 @@ Defence-in-Depth (DiD)
 <h5 id="internet">Internet</h5>
 <p>A global system of interconnected computer systems. Distinct from the <a href=""><i>World Wide Web</i></a>.</p>
 
+<h5>Internet of Things (IoT)</h5>
+<p>The collection of computing devices embedded in everyday objects connected over the <a href="#internet"><i>internet</i></a>, enabling them to send and receive data. For example, fridges, wearables and sensors. Typically, any device which would not normally be able to send an recieve data via the internet and its connection adds new functionality.</p>
+
 <h5>ISO 27000</h5>
 <p>A family of international <a href="#technical-standard"><i>technical standards</i></a> created by the <a href="#iso"><i>ISO</i></a> relating to information security management. <a href="#iso-27001"><i>ISO 27001</i></a> is the most well-known within the series.</p>
 
@@ -236,7 +265,7 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="J">J</h3>
 
@@ -248,18 +277,18 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="K">K</h3>
 <h5>Kernel</h5>
-<p></p>
+<p>The software at the core of a computer's operating system which controls everything. Kernel code is loaded into a separate area of memory, which is protected from access by application programs or other, less critical parts of the operating system. The kernel performs tasks such as running processes and managing hardware devices in this protected kernel space. In contrast, application programs like browsers and word processors use a separate area of memory called user space. </p>
 
 <h5 id="kilobyte">Kilobyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. A kilobyte (kB) is a measure of storage capacity equal to approximately 1,000 bytes.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 
 <h3 id="L">L</h3>
@@ -271,9 +300,12 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="M">M</h3>
+<h5>Machine instructions</h5>
+<p></p>
+
 <h5 id="macro">Macro</h5>
 <p>A type of programme used to eliminate the need to repeat the steps of common tasks within certain software applications – such as adding or removing rows and columns a spreadsheet. Malware may use macros as an <a href="#entry-point"><i>entry point</i></a>, as they often run or are clicked by a user upon opening a spreadsheet or word file.</p>
 
@@ -291,7 +323,7 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="N">N</h3>
 <h5 id="nato">NATO</h5>
@@ -300,13 +332,15 @@ Defence-in-Depth (DiD)
 <h5>NCI Agency</h5>
 <p>The <a href="#nato"><i>NATO</i></a> Communications and Information (NCI) Agency responsible for NATO <a href="#c4isr"><i>C4ISR</i></a>, including consultation and training.</p>
 
+<h5 id="non-persistent-memory">Non-persistent memory</h5>
+<p></p>
 
 <h5>Non-repudiation</h5>
 <p>The ability to prove that a specific individual has carried out an activity on a computer or online, so that it cannot later be denied.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="O">O</h3>
 <h5>One-way function</h5>
@@ -335,9 +369,12 @@ Defence-in-Depth (DiD)
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="P">P</h3>
+<h5>Persistent memory</h5>
+<p></p>
+
 <h5 id="petabyte">Petabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Peta" indicates multiplication by the fifth power of 1000 or 10<sup>15</sup>. A petabyte (PB) is a measure of storage capacity equal to approximately 1,000 terabytes (TB), a million gigabytes (GB) or a billion megabytes (MB).</p>
 
@@ -354,7 +391,7 @@ Python
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="Q">Q</h3>
 
@@ -362,7 +399,7 @@ Python
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="R">R</h3>
 
@@ -371,7 +408,7 @@ Router
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="S">S</h3>
 <h5 id="server">Server</h5>
@@ -403,7 +440,7 @@ Router
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="T">T</h3>
 <h5>TCP</h5>
@@ -419,11 +456,11 @@ Router
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Tera" indicates multiplication by the fourth power of 1000 or 10<sup>12</sup>. A terabyte (TB) is a measure of storage capacity equal to approximately 1,000 gigabytes (GB), a million megabytes (MB) or a billion kilobytes (KB).</p>
 
 <h5>Two-factor authentication</h5>
-<p>Obtaining evidence of identity by two independent means, such via password and an authenticator mobile phone application.</p>
+<p>Obtaining evidence of identity by two independent means, such via password and an authenticator cellular/mobile phone application.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="U">U</h3>
 <h5>UDP</h5>
@@ -440,7 +477,7 @@ Router
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="V">V</h3>
 
@@ -469,9 +506,12 @@ Virtual Server
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="W">W</h3>
+<h5>Wargame</h5>
+<p>A realistic sceanrio designed to train and improve the readiness of relevant stakeholders (soldiers, officers, planners etc) or explore specific issues inline with scenario objectives. Wargames can be "tabletop" games, such as boardgames, or real-world sceanrios.</p>
+
 <h5>Web 1.0</h5>
 <p>The first iteration of the web, although it was not refered to web 1.0 during the period. Users of the web (see <a href="#www">World Wide Web</a>) could only search for information and read it. User interaction and content generation were limited or non-existant.</p>
 
@@ -505,7 +545,7 @@ Wireless hotspot
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="X">X</h3>
 
@@ -513,7 +553,7 @@ Wireless hotspot
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="Y">Y</h3>
 <h5>Yottabyte</h5>
@@ -521,7 +561,7 @@ Wireless hotspot
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
-<!--------  ---------->
+<!-- -->
 
 <h3 id="Z">Z</h3>
 <h5 id="zero-day">Zero-day</h5>

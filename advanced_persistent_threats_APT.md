@@ -21,8 +21,6 @@ page_nav:
         url: '#'
 ---
 
-<style>p { text-align: justify; }</style>
-
 __If you are new to the concept of APTs please <a href="/conducting_a_cyber_attack">go back one chapter</a>.__
 
 

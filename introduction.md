@@ -18,8 +18,6 @@ page_nav:
         url: '/conducting_a_cyber_attack'
 ---
 
-<style>p { text-align: justify; }</style>
-
 # Introduction
 
 This book aims to examine cyber war for a public audience. The nature of a highly-connected internet along with the proliferation of the Internet of Things (IoT) and 5G, mean state cyber operations have increasing potential to effect the daily lives of citizens in all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysists to discover the why, what, when and how of cyber warfare.
