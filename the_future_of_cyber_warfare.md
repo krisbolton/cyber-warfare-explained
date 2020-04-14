@@ -42,7 +42,7 @@ page_nav:
 
 
 
-Foot Notes
+<h3>Foot Notes</h3>
 
 <ol>
     <li>US election meddling</li>
@@ -53,7 +53,7 @@ Foot Notes
     <li>economic damage</li>
 </ol>
 
-References
+<h3>References</h3>
 
 
 

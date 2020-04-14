@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Articles
-description: Articles analysing topical issues and subjects of interest relating to cyber warfare.
+description: Articles discussing topical issues and subjects of interest relating to cyber warfare.
 
 ---
 

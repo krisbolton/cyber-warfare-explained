@@ -48,11 +48,15 @@ It is worth pointing out the process by which a threat actor would be considered
 
 # Overview of APT Targets
 
-Advanced threat actors target entities for a varity of reasons; to gather intelligence, to gather intelligence on individuals, to further or protect the interests of the state, to conduct espionage, to steal techonolgy, or to disrupt or damage. To date, APT groups have targeted the following sectors within economies; [FILL].
+Advanced threat actors target entities for a varity of reasons; to gather intelligence on businesses and individuals, to conduct espionage, to steal techonolgy, or to disrupt or damage, all with the goal of furthering or protecting the interests of a nation state.
+
+To date, APT groups have targeted the following sectors within economies; [FILL].
 
 # List of APTs
 
-Only countries who's offensive cyber activities have been discovered are included here. If you believe there is an omission please <a href="mailto:cyberwartoday@gmail.com">get in touch</a>. *Last updated: Jan 2020.*
+Only countries who's offensive cyber activities have been discovered in the wild are included here. If you believe there is an omission please <a href="mailto:cyberwartoday@gmail.com">get in touch</a>.
+
+*Last updated: Jan 2020.*
 
 # China
 
@@ -108,7 +112,7 @@ __a.k.a APT17, Sneaky Panda, Hidden Lynx, Tailgater Team, The Bejing Group, Axio
 <style>.yellow-underline { text-decoration: underline; color: blue; }</style>
 
 <div class="callout callout--warning">
-<b>Hi there</b>. If you've enjoyed the content please consider <a href=""><i>supporting this project</i></a>. Contributions allow me to put more time into research, writing and design.
+<b>Hi there</b>. If you've enjoyed the content please consider <a href=""><i>supporting this project</i></a>. Contributions allow me to put more time into research and writing.
 </div>
 
 ---

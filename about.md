@@ -41,5 +41,5 @@ Approximately nine chapters remain:
     <li>The Problem of Attribution</li>
     <li>Disruption</li>
     <li>The Future</li>
-    <li>Further Reading</li>
+    <li>Further Information</li>
 </ol>

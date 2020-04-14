@@ -23,11 +23,11 @@ page_nav:
 
 # Chapter Introduction
 
-This chapter discusses part of the why nations conduct offensive cyber operations through the discussion of  scenario based attacks which a threat actor might conduct against a target.
+This chapter discusses part of the why nations conduct offensive cyber operations through the discussion of  scenario based attacks which a threat actor may conduct against a target.
 
 # Planning an Attack
 
-Attack orders are unlikely to come from Presidents or Prime Ministers, except in times of crisis (US-Iran drone retaliation), cyber war is a day-to-day activity for national Militaries, Government organisations and state-affiliated organisations, such as Unit 61398 of the People Liberation Amry (PLA), Cyber Command (US), Strategic Command (UK)(Formerly Joint Forces Command), or a private-state collaberation as seen with [NAME].
+Attack orders are unlikely to come from Presidents, Prime Ministers or Chancellors, except in times of crisis (US-Iran drone retaliation). Cyber warfare is a day-to-day activity for national Militaries, Government organisations and state-affiliated organisations, such as Unit 61398 of the People Liberation Amry (PLA), Cyber Command (US), Strategic Command (UK)(formerly Joint Forces Command), or a private-state collaberation as seen with [NAME].
 
 'Advanced' threat actors follow a similar attack method to typical <a href="">"black hat"</a> hackers, the major differences are the cyclical nature of the attack, the level of skill (advanced) which is due to the size of the organisation behind the attack and the sustained motivation (persistence) of the attackers. Hence the acrynm often used to describe state and state-sponsored actors, Advanced Persistent Threat (APT).
 
@@ -80,14 +80,14 @@ Threat actors regularly share tools, not because they are in contact, but by the
 
 ---
 
-**Foot Notes**
+<h3>Foot Notes</h3>
 
 <ol>
     <li></li>
 
 </ol>
 
-**References**
+<h3>References</h3>
 
 
 
