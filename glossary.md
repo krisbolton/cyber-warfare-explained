@@ -193,9 +193,6 @@ description: A list of words and their definitions relating to cyber warfare.
 <!-- -->
 
 <h3 id="G">G</h3>
-<h5>Gateway</h5>
-<p></p>
-
 <h5 id="gigabyte">Gigabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. A gigabyte (GB) is a measure of storage capacity equal to approximately 1,000 megabytes (GB) or a million kilobytes (KB).</p>
 
@@ -487,13 +484,11 @@ Router
 <h5>Voice over Internet Protocol (VoIP)</h5>
 <p>A technology for transmitting phone-like voice conversations over the internet. For example, Skype.</p>
 
-Virtualisation
+<h5 id="virtualisation">Virtualisation</h5>
+<p>Refering to the act of creating a virtual version of something, for example virtual computers, storage devices, and computer network resources.</p>
 
-<h5 id="virtual-machine">Virtual Machine</h5>
-<p></p>
-
-Virtual Server
-<p></p>
+<h5 id="virtual-machine">Virtual Machine (VM)</h5>
+<p>A virtual computer run using software, i.e., a computer run on another computer. VMs are based on computer architectures (Window,s Linux, etc) and provide functionality of a physical computer. This allows functionality beyond what a single machine can achieve.</p>
 
 <h5>Virtual Private Network (VPN)</h5>
 <p>A method of creating a secure connection between two points over the internet.</p>
@@ -546,7 +541,7 @@ Wireless hotspot
 
 <h3 id="X">X</h3>
 
-
+<p>No "X" entries at this time.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
