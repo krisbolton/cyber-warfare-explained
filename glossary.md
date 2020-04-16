@@ -335,7 +335,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A function that is hard to invert. For example, a cryptographic <a href="#hash-function"><i>hash function</i></a> is one-way because it is easy (fast) to compute, but difficult (extremely slow / essentially impossible) to reverse without the key, creating a method to secure data.</p>
 
 <h5>OSI model</h5>
-<p>The Open System Interconnection (OSI) is an internatinal <a href="#iso"><i>ISO</i></a> <a href="#technical-standard"><i>technical standard</i></a> which defines a framework of layers used for computer networking referred to as the OSI model.</p>
+<p>The Open System Interconnection (OSI) is an internatinal <a href="#iso"><i>ISO</i></a> <a href="#technical-standard"><i>technical standard</i></a> which defines a framework of seven layers used for computer networking referred to as the OSI model.</p>
 
 <h5>OpenBSD</h5>
 <p>A security-focused, free and open-source, <a href="#unix"><i>Unix</i></a>-like operating system based on the Berkeley Software Distribution (BSD). Favoured for its security focused design.</p>
@@ -360,6 +360,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <!-- -->
 
 <h3 id="P">P</h3>
+<h5>Packet</h5>
+<p></p>
+
 <h5 id="petabyte">Petabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Peta" indicates multiplication by the fifth power of 1000 or 10<sup>15</sup>. A petabyte (PB) is a measure of storage capacity equal to approximately 1,000 terabytes (TB), a million gigabytes (GB) or a billion megabytes (MB).</p>
 
@@ -375,7 +378,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Pwned</h5>
 <p>Slang. See <a href=""><i>owned</i></a>.</p>
 
-Python
+<h5>Python</h5>
+<p></p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
@@ -399,8 +403,28 @@ Router
 <!-- -->
 
 <h3 id="S">S</h3>
+<h5>SaaS</h5>
+
+<h5>Sandbox</h5>
+<p></p>
+
+<h5>SCADA (Supervisory Control and Data Acquisition)</h5>
+<p></p>
+
+<h5>Security perimiter</h5>
+<p></p>
+
 <h5 id="server">Server</h5>
 <p>A computer program or machine that provides functionality for other <a href="#client"><i>client</i></a> programs or devices. For example, web servers host website which are accessed by web browsers (the client).</p>
+
+<h5>SIEM (Security Information and Event Management)</h5>
+<p></p>
+
+<h5>Sniffing</h5>
+<p></p>
+
+<h5>Social engineering</h5>
+<p></p>
 
 <h5 id="standard">Standard</h5>
 <p>See <a href="#technical-standard"><i>technical standard</i></a>.</p>
@@ -420,11 +444,20 @@ Router
 <h5>Software-as-a-Service (SaaS)</h5>
 <p>A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted in the cloud. Examples, include Google Apps - Google Docs, Google Sheets, etc.</p>
 
+<h5>Spoofing</h5>
+<p></p>
+
+<h5>Spear phishing</h5>
+<p></p>
+
 <h5>Spyware</h5>
 <p><a href="#malware"><i>Malware</i></a> that passes information about a user’s activity to an external entity.</p>
 
 <h5>State-sponsor</h5>
 <p></p>
+
+<h5>Supply chain</h5>
+<p>The path of linked organisations, people, activities, information, and resources involved in supplying a product or service to a consumer (business or individual).</p>
 
 <h5>Switch</h5>
 <p></p>
@@ -449,6 +482,12 @@ Router
 <h5>Tit-for-tat</h5>
 <p></p>
 
+<h5>Transport Layer</h5>
+<p></p>
+
+<h5>Trojan</h5>
+<p></p>
+
 <h5>Two-factor authentication</h5>
 <p>Obtaining evidence of identity by two independent means, such via password and an authenticator cellular/mobile phone application.</p>
 
@@ -458,7 +497,7 @@ Router
 
 <h3 id="U">U</h3>
 <h5>UDP</h5>
-<p></p>
+<p>User Datagram Protocol (UDP) is one of the core components of the <a href=""><i>Internet protocol suite</i></a>. </p>
 
 <h5 id="uri">Universal Resource Identifier (URI)</h5>
 <p>A string of characters that identifies a particular resource by name and its location. URIs can represent names and not location and vice-versa. Also see <a href="#url"><i>URL (Universal Resource Locator)</i></a>.</p>
