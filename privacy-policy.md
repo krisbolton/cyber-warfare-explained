@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Privacy Policy
-description: A plain-english privacy policy.
+description: A plain English privacy policy.
 
 ---
 
