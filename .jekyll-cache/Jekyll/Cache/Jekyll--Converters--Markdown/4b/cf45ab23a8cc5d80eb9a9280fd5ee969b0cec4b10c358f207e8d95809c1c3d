@@ -1,0 +1,64 @@
+I"�<h1 id="introduction">Introduction</h1>
+
+<p>This book aims to examine cyber war for a public audience. The nature of a highly-connected internet along with the proliferation of the Internet of Things (IoT), 5G and misinformation mean state cyber operations have increasing potential to effect the daily lives of citizens in all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysists to discover the why, what, when and how of cyber warfare.</p>
+
+<p>To date, cyber operations have undermined democratic elections in the United States<sup>1</sup>, disrupted and prevented medical care in the United Kingdom<sup>2</sup>, caused blackouts in Ukraine<sup>3</sup>, physically damaged industrial machinery in Iran<sup>4</sup>, threatened the safety of human workers in Saudi Arabia<sup>5</sup> and damage economies and international order every day<sup>6</sup>. We will discover the reasons for each of these well-known campaigns, and the less well known ones.</p>
+
+<p>[GRAPH?]</p>
+
+<p>At present, there is no robust understanding of how a country should react to cyber a campaign by an adversary. This makes disinsentivising damaging or undisirable action difficult. 2019 saw a number of cyber firsts; Israel launched the first kinetic response to a cyber attack - physically destroying the building of the cyber adversary in response to a cyber attack[REF], and the United States launched a cyber attack against Iran in response to the downing of a US drone, rather than launch a kinetic attack[REF]. No significant conflict has occurred solely in cyberspace, so far. Will this happen? What’s happened so far? How does cyber fit into the traditional battlefield? How will artificial intelligence change things? This book investigates these topics - and others - drawing on current research and thinking from civilian and military experts.</p>
+
+<p><img src="/images/idf_air_strike_cyber.png" alt="" />
+<em>The building destroyed by an Israeli airstrike, 5th May 2019. “HamasCyberHQ.exe has been removed.”</em>
+<em>Source: <a href="https://twitter.com/idf/status/1125066395010699264?lang=en">Twitter, Israel Defense Forces</a></em></p>
+
+<div class="callout callout--info">
+<b>Hi there.</b> Please consider <a href=""><i>supporting this project</i></a> via Patreon, even if you've never patreon'd before. This book is an on-going research-led project and support allows me to dedicate more time to its completion.
+</div>
+
+<h1 id="does-cyber-war-exist">Does Cyber War Exist?</h1>
+
+<p>It may seem strange to start by asking if something exists, after all, you’re reading about it. However, we need to craft the words we use to describe the subject; otherwise, we won’t cover essential aspects.</p>
+
+<p>Cyber war is a contentious topic, to the point where some experts argue it doesn’t exist. The difficulty lies within the definition; the term ‘war’ does not accurately describe the events often referred to when the term ‘cyber war’ is invoked. Even the events described in the prelude above; Ukraine’s [YEAR] power outage, Russian [YEAR] election meddling in the United States and the North Korean launched malware which disrupted medical care in the United Kingdom in 2014 were all incidents dealt with within the context of international relations. The events did not lead to anything resembling what is considered ‘war’. A ‘cyber war’ could accurately describe a protracted back-and-forth of damaging cyber-attacks between nations. If the question is ‘Has a cyber war occurred?’, the answer is no. Not yet, anyway.</p>
+
+<p>Researchers suggest adopting the word ‘warfare’, as it does not convey scale or protraction and describes ‘warlike’ actions. ‘Cyber warfare’ better encapsulates the different motivations which spur nations to conduct cyber operations. ‘Cyber warfare’ most definitely exists; the number of countries investing in cyber personnel increases each year, as does the number and complexity of state and state-sponsored attacks.</p>
+
+<h1 id="what-is-cyber-warfare">What is Cyber Warfare</h1>
+
+<p>Carl von Clauswitz, a historical titan in the feild of war studies whose name is known to every millitary officer in the West, said “War is the continuation of politics by other means”. So to is cyber warfare a continuation of politics by other means. Cyber actions serve as strategic and tactical political tools to apply pressure and create bargining chips within international negotiations, furthering the interests of the nation conducting operations. In 2015 Chinese intrusions against US companies declined ahead of a summit between President Xi and President Obama, according to anacdotal evidence from several US cyber security companies [REF [REUTERS]] - a show of good faith? As the US administration changed and leveraged sanctions against China for a varity of alleged unfair practices, culmanating in tit-for-tat tarrifs and restrictions [REF] in 2019, China increasingly used cyber attacks to balance its retaliation [REF]. Despite China’s economic power, the US was able to place $200 billion of tarrifs on Chinese goods, while China could only levy $60 billion of tarrifs due to China buying less US goods [REF]. State-sponsored attacks which are difficult to attribute to governments with high confidence can form a legitimate negotiating position behind closed doors, the operating country may promise to ‘crack down on cyber criminals’ in return for a more favourable deal for example.</p>
+
+<p>Nor are cyber operations conducted in a vaccum. other examples of tit for tat, lift the veil</p>
+
+<h1 id="the-grey-zone">The Grey Zone</h1>
+
+<p>“We’re seeing state and non-state actors alike operating in that ‘sombre’ zone below the threshold of war - unconstrained by previously accepted norms - using all tools in their armoury, and weaponising informaiton to catch us off guard to destabilise our societies and our support systems. If we’re to respond, we must have strategic intergration across the five warfighting domains: land, sea, space and cyber.” - Penny Mordaunt, Former United Kingdom Defense Secretary (2018-2019)</p>
+
+<p>Cyber warfare is increasingly used to exploit the “grey zone”; an area between cyber, military and civilian activities which would not reasonbly lead to war. While it often does include non-cyber actions, we will limit disucssion to cyber. These activities are conducted to further the interests of the operating country and often involve stealing, spying, disrupting or otherwise frustrating businesses or sectors of an economy. “Interests” is a broad and vauge term refering to anything from international alliances, national infrastructure to mundane and seemingly unimportant items such as salmon, potatoes or wine. Reasons vary widly for conducting operations. Breifly, some include: tit-for-tat punishment, in [YEAR] Russia hackers launched a cyber attack to punish Ukraine for removing Soviet era statues in what was percieved by Russia as an attempt to re-write history [REF].</p>
+
+<p>We will discuss the how and why of hypothetical cyber attacks against the mundane salmon and unimportant potato markets in the next chapter ‘Conducting Cyber Attacks’.</p>
+
+<h1 id="whats-ahead">What’s Ahead?</h1>
+
+<p>The chapter ahead</p>
+
+<hr />
+
+<h3>Footnotes</h3>
+
+<ol>
+    <li>US election meddling</li>
+    <li>WannaCry</li>
+    <li>blackout Ukriane</li>
+    <li>Stuxnet</li>
+    <li>TRITON</li>
+    <li>economic damage</li>
+</ol>
+
+<h3>References</h3>
+
+<ol>
+    <li></li>
+</ol>
+
+:ET

@@ -1,92 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-	<head>
-		<meta charset="UTF-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="viewport" content="width=device-width, minimum-scale=1.0">
-<title>Glossary</title>
-
-	<meta name="description" content="A list of words and their definitions relating to cyber warfare.">
-
-
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,700,700i|Noto+Sans:400,400i,700,700i|Source+Code+Pro&amp;subset=latin-ext">
-<link rel="stylesheet" href="/doks-theme/assets/css/style.css">
-
-	</head>
-	<body class="blue" data-spy="scroll" data-target=".js-scrollspy">
-		
-	<div class="offcanvas visible-xs">
-		<ul class="offcanvas__nav">
-			
-				<li><a href="/about">About</a></li>
-			
-				<li><a href="/glossary">Glossary</a></li>
-			
-				<li><a href="/articles">Articles</a></li>
-			
-				<li><a href="#">Patreon</a></li>
-			
-		</ul><!-- /.offcanvas__nav -->
-	</div><!-- /.offcanvas -->
-
-
-
-	<header class="site-header">
-		<div class="container" role="navigation" aria-label="primary navigation">
-			<div class="row">
-				<div class="col-xs-12">
-					
-						<a href="/" class="site-header__logo">Cyber Warfare Today</a>
-					
-					
-						<ul class="site-header__nav hidden-xs">
-							
-								<li><a href="/about">About</a></li>
-							
-								<li><a href="/glossary">Glossary</a></li>
-							
-								<li><a href="/articles">Articles</a></li>
-							
-								<li><a href="#">Patreon</a></li>
-							
-						</ul><!-- /.site-header__nav -->
-						<button class="offcanvas-toggle visible-xs">
-							<span></span>
-							<span></span>
-							<span></span>
-						</button><!-- /.offcanvas-toggle -->
-					
-				</div><!-- /.col -->
-			</div><!-- /.row -->
-		</div><!-- /.container -->
-	</header><!-- /.site-header -->
-
-
-		<div class="hero-subheader">
-			<div class="container" role="banner">
-				<div class="row">
-					<div class="col-md-7">
-						<div class="align-container" data-mh>
-							<div class="align-inner">
-								
-									<h1 class="hero-subheader__title">Glossary</h1>
-								
-								
-									<p class="hero-subheader__desc">A list of words and their definitions relating to cyber warfare.</p>
-								
-							</div><!-- /.align-inner -->
-						</div><!-- /.align-container -->
-					</div><!-- /.col -->
-				</div><!-- /.row -->
-			</div><!-- /.container -->
-		</div><!-- /.hero-subheader -->
-		<div class="section">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-7">
-						<div class="content" role="main">
-							<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
+I"-…<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
 
 <p><code>ctrl + f</code> can be used to find specific words quickly.</p>
 
@@ -152,9 +64,6 @@
 
 <h5>APT</h5>
 <p>A threat actor, typically a nation state or <a href="#state-sponsor"><i>state-sponsored</i></a> group, which gains unauthorized access to a computer network and remains undetected for an extended period. The tools used (often <a href="#zero-day"><i>zero-days</i></a>) and scale of resources they have access to indicates the "advanced" nature.</p>
-
-<h5 id="artificial-intelligence">Artificial Intelligence (AI)</h5>
-<p>The theory and development of computer systems able to perform tasks normally requiring human intelligence. The term is widely misused and misunderstood. There are two types of AI, <a href="#soft-ai"><i>soft AI</i></a> and <a href="#hard-ai"><i>hard AI</i></a>.</p>
 
 <h5 id="assembly">Assembly language</h5>
 <p>A <a href="#low-level"><i>"low-level"</i></a> programming language designed for a specific processor architecture. May also be called "assembler". See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
@@ -229,10 +138,10 @@
 
 <h3 id="D">D</h3>
 <h5>Data integrity</h5>
-<p>The intent of data integrity techniques is to ensure data is recorded exactly as intended, and upon retrieval ensure the data is unchanged.</p>
+<p></p>
 
 <h5>Data mining</h5>
-<p>A technique for discovering patterns in large data sets involving methods at the intersection of machine learning, statistics and database systems.</p>
+<p></p>
 
 <h5>Defence-in-Depth (DiD)</h5>
 <p>A multi-layered defense concept where valuable assets are surrounded by many layers of security. This increases the difficulty of attack in effort, time and financial cost to an attcker.</p>
@@ -388,9 +297,6 @@
 <h5 id="machine-code">Machine code</h5>
 <p>A set of instructions, specific to a particular processor architecture, which can be executed directly on a Central Processing Unit (CPU). A strictly numerical language intended to run as fast as possible within the limited-memory environment of a CPU.</p>
 
-<h5 id="machine-learning">Machine learning</h5>
-<p>A method of data analysis that automates analytical model building, based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. It is a subset of artificial intelligence.</p>
-
 <h5 id="macro">Macro</h5>
 <p>A type of program used to eliminate the need to repeat the steps of common tasks within certain software applications â€“ such as adding or removing rows and columns a spreadsheet. Malware may use macros as an <a href="#entry-point"><i>entry point</i></a>, as they often run or are clicked by a user upon opening a spreadsheet or word file.</p>
 
@@ -515,9 +421,6 @@
 <p></p>
 
 <h5>Social engineering</h5>
-<p></p>
-
-<h5 id="soft-ai">Soft AI</h5>
 <p></p>
 
 <h5 id="standard">Standard</h5>
@@ -697,97 +600,4 @@
 <p>A computer which has been compromised by malware and is under the control of a threat actor. May form part of a <a href="#botnet"><i>botnet</i></a>.</p>
 
 <p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
-
-						</div><!-- /.content -->
-					</div><!-- /.col -->
-				</div><!-- /.row -->
-			</div><!-- /.container -->
-		</div><!-- /.section -->
-		<div class="js-footer-area" role="contentinfo">
-			
-	<footer class="site-footer">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-6">
-					
-						<a href="/" class="site-footer__logo">Cyber Warfare Today</a>
-					
-					
-						<hr>
-						<p class="site-footer__copyright"><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="mailto:cyberwarfaretoday@gmail.com">Contact</a></p>
-					
-				</div><!-- /.col -->
-				
-					<div class="col-sm-6 align-right">
-						<ul class="social-list">
-							
-								<li>
-									<a href="https://twitter.com/krisbolton" target="_blank" class="social-list__item social-list__item--twitter">
-										<i class="icon icon--twitter"></i>
-									</a>
-								</li>
-							
-						</ul><!-- /.social-list -->
-					</div><!-- /.col -->
-				
-			</div><!-- /.row -->
-		</div><!-- /.container -->
-	</footer><!-- /.site-footer -->
-
-
-<script src="/doks-theme/assets/js/vendor/jquery.min.js"></script>
-<script src="/doks-theme/assets/js/vendor/bootstrap/affix.min.js"></script>
-<script src="/doks-theme/assets/js/vendor/bootstrap/scrollspy.min.js"></script>
-<script src="/doks-theme/assets/js/vendor/matchHeight.min.js"></script>
-<script src="/doks-theme/assets/js/scripts.min.js"></script>
-
-
-
-
-<!-- from https://jekyllcodex.org/without-plugin/cookie-consent/ -->
-<!-- Currently set for warning and information only -->
-
-<div id="cookie-notice"><span>This website uses cookies to improve your experience, by using this website you agree to their use.</span><a id="cookie-notice-accept" class="btn--consent-approve btn--rounded">Accept</a><a href="/privacy-policy" class="consent-link">More info</a></div>
-
-<script>
-    function createCookie(name,value,days) {
-        var expires = "";
-        if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days*24*60*60*1000));
-            expires = "; expires=" + date.toUTCString();
-        }
-        document.cookie = name + "=" + value + expires + "; path=/";
-    }
-    function readCookie(name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for(var i=0;i < ca.length;i++) {
-            var c = ca[i];
-            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-        }
-        return null;
-    }
-    function eraseCookie(name) {
-        createCookie(name,"",-1);
-    }
-
-    if(readCookie('cookie-notice-dismissed')=='true') {
-        
-        //functionality unblocked here
-        
-    } else {
-        document.getElementById('cookie-notice').style.display = 'block';
-    }
-    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('cookie-notice-dismissed','true',31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
-    });
-
-</script>
-
-		</div><!-- /.js-footer-area -->
-	</body>
-</html>
+:ET

@@ -77,6 +77,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>APT</h5>
 <p>A threat actor, typically a nation state or <a href="#state-sponsor"><i>state-sponsored</i></a> group, which gains unauthorized access to a computer network and remains undetected for an extended period. The tools used (often <a href="#zero-day"><i>zero-days</i></a>) and scale of resources they have access to indicates the "advanced" nature.</p>
 
+<h5 id="artificial-intelligence">Artificial Intelligence (AI)</h5>
+<p>The theory and development of computer systems able to perform tasks normally requiring human intelligence. The term is widely misused and misunderstood. There are two types of AI, <a href="#soft-ai"><i>soft AI</i></a> and <a href="#hard-ai"><i>hard AI</i></a>.</p>
+
 <h5 id="assembly">Assembly language</h5>
 <p>A <a href="#low-level"><i>"low-level"</i></a> programming language designed for a specific processor architecture. May also be called "assembler". See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
 
@@ -105,6 +108,9 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <h5>BSD</h5>
 <p>Berkeley Software Distribution (BSD) was an operating system based on an early version of <a href="#unix"><i>Unix</i></a>, developed at the University of California, Berkeley. Today, "BSD" often refers to its descendants, such as FreeBSD, <a href="#openbsd"><i>OpenBSD</i></a>, NetBSD, or DragonFly BSD, and systems based on those descendants.</p>
+
+<h5>Bring Your Own Device (BYOD)</h5>
+<p>Refers to a company's security policy relating to the use of personal devices for work use.</p>
 
 <h5 id="byte">Byte</h5>
 <p>A unit of informaiton consisting of eight <a href="#bit"><i>bits</i></a>.</p>
@@ -135,11 +141,23 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Cookie</h5>
 <p>A string of data sent from a website and stored on a user's computer by a web browser upon visiting the website. They are used for statistical purposes, collecting data for the web administrator to monitor and improve the user experience. They are also often used to enable certain functionality, such as 'remember me' to reduce the number of logins by users, among other uses.</p>
 
+<h5>Critical National Infrastrucutre (CNI)</h5>
+<p>Refers to infrastrucutre assets critical to a nations society and economy. Typically, this refers to national utilities - power, water, waste, internet, etc. When refering to other critical national assets, such as stock exchanges, fuel distribution networks, national health services and similar, they may be best refered to specifically, or encompassed by a different phrase.</p>
+
+<h5>Common Vulnerabilities and Exposures (CVE)</h5>
+<p>An online database of vulnerabilities and compromises known for any type of computer system or software product. Often new attacks and exploits are documented as a CVE before a vendor admits to the issue or releases an update to resolve the issue.</p>
+
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
 <!-- -->
 
 <h3 id="D">D</h3>
+<h5>Data integrity</h5>
+<p>The intent of data integrity techniques is to ensure data is recorded exactly as intended, and upon retrieval ensure the data is unchanged.</p>
+
+<h5>Data mining</h5>
+<p>A technique for discovering patterns in large data sets involving methods at the intersection of machine learning, statistics and database systems.</p>
+
 <h5>Defence-in-Depth (DiD)</h5>
 <p>A multi-layered defense concept where valuable assets are surrounded by many layers of security. This increases the difficulty of attack in effort, time and financial cost to an attcker.</p>
 
@@ -297,6 +315,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="machine-code">Machine code</h5>
 <p>A set of instructions, specific to a particular processor architecture, which can be executed directly on a Central Processing Unit (CPU). A strictly numerical language intended to run as fast as possible within the limited-memory environment of a CPU.</p>
 
+<h5 id="machine-learning">Machine learning</h5>
+<p>A method of data analysis that automates analytical model building, based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. It is a subset of artificial intelligence.</p>
+
 <h5 id="macro">Macro</h5>
 <p>A type of program used to eliminate the need to repeat the steps of common tasks within certain software applications – such as adding or removing rows and columns a spreadsheet. Malware may use macros as an <a href="#entry-point"><i>entry point</i></a>, as they often run or are clicked by a user upon opening a spreadsheet or word file.</p>
 
@@ -424,6 +445,9 @@ Router
 <p></p>
 
 <h5>Social engineering</h5>
+<p></p>
+
+<h5 id="soft-ai">Soft AI</h5>
 <p></p>
 
 <h5 id="standard">Standard</h5>
