@@ -17,16 +17,16 @@ page_nav:
         content: Next Chapter
         url: '/conducting_a_cyber_attack'
 ---
-
+<sup><a href="">[]</a></sup>
 # Introduction
 
-This book aims to examine cyber war for a public audience. The nature of a highly-connected internet along with the proliferation of the Internet of Things (IoT), 5G and misinformation mean state cyber operations have increasing potential to effect the daily lives of citizens in all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysists to discover the why, what, when and how of cyber warfare.
+This book aims to examine cyber war for a public audience. The nature of a highly-connected internet, with the proliferation of new paradigmns and technologies including the Internet of Things (IoT) and 5G, along with old issues, such misinformation, mean state cyber operations have increasing potential to effect the daily lives of citizens in all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysists to discover the why, what, when and how of cyber warfare.
 
-To date, cyber operations have undermined democratic elections in the United States<sup>1</sup>, disrupted and prevented medical care in the United Kingdom<sup>2</sup>, caused blackouts in Ukraine<sup>3</sup>, physically damaged industrial machinery in Iran<sup>4</sup>, threatened the safety of human workers in Saudi Arabia<sup>5</sup> and damage economies and international order every day<sup>6</sup>. We will discover the reasons for each of these well-known campaigns, and the lesser known ones.
+To date, cyber operations have undermined democratic elections in the United States<sup><a href="#ref-1">[1]</a><a href="#ref-2">[2]</a></sup>, disrupted and prevented medical care in the United Kingdom<sup><a href="">[3]</a></sup>, caused blackouts in Ukraine<sup><a href="">[]</a></sup>, physically damaged industrial machinery in Iran<sup><a href="">[]</a></sup>, threatened the safety of human workers in Saudi Arabia<sup><a href="">[]</a></sup> and they damage economies and international order every day<sup><a href="">[]</a></sup>. We will discover the reasons for each of these well-known campaigns, and the lesser known ones.
 
 [GRAPH?]
 
-At present, there is no robust understanding of how a country should react to cyber a campaign by an adversary. This makes disinsentivising damaging or undisirable action difficult. 2019 saw a number of cyber firsts; Israel launched the first kinetic response to a cyber attack - physically destroying the building of the cyber adversary in response to a cyber attack[REF], and the United States launched a cyber attack against Iran in response to the downing of a US drone, rather than launch a kinetic attack[REF]. No significant conflict has occurred solely in cyberspace, so far. Will this happen? What's happened so far? How does cyber fit into the traditional battlefield? How will artificial intelligence change things? This book investigates these topics - and others - drawing on current research and thinking from civilian and military experts.
+At present, there is no robust understanding of how a country should react to cyber a campaign by an adversary. This makes discouraging undisirable actions difficult. 2019 saw a number of cyber firsts; Israel launched the first kinetic response to a cyber attack - physically destroying the building of the cyber adversary in response to a cyber attack[REF], and the United States launched a cyber attack against Iran in response to the downing of a US drone, rather than launch a kinetic attack[REF]. No significant conflict has occurred solely in cyberspace, so far. Will this happen? What's happened so far? How does cyber fit into the traditional battlefield? How will artificial intelligence change things? This book investigates these topics - and others - drawing on current research and thinking from civilian and military experts.
 
 ![](/images/idf_air_strike_cyber.png)
 _The building destroyed by an Israeli airstrike, 5th May 2019. "HamasCyberHQ.exe has been removed."_
@@ -51,6 +51,10 @@ Carl von Clauswitz, a historical titan in the feild of war studies whose name is
 
 Nor are cyber operations conducted in a vaccum. other examples of tit for tat, lift the veil
 
+Cyber operations are not conducted within a vaccum, they may be single-goal missions or they may be one part of a strategy to achieve a broader goal. In [YEAR] a cyber operation, likely conducted by Israel physically destroyed [DISABLED?] rocket batteries [FACTS? SPELLING] in Iran, this single-mission use during active battlefield ...
+
+[Example of possible cyber campaign part of larger strategy]
+
 # The Grey Zone
 
 "We're seeing state and non-state actors alike operating in that 'sombre' zone below the threshold of war - unconstrained by previously accepted norms - using all tools in their armoury, and weaponising informaiton to catch us off guard to destabilise our societies and our support systems. If we're to respond, we must have strategic intergration across the five warfighting domains: land, sea, space and cyber." - Penny Mordaunt, Former United Kingdom Defense Secretary (2018-2019)
@@ -66,21 +70,22 @@ The chapter ahead
 
 ---
 
-<h3>Footnotes</h3>
+<h3>References</h3>
 
 <ol>
-    <li>US election meddling</li>
+    <li id="ref-1">Reuters (2016). <a href="https://www.reuters.com/article/us-usa-trump-cyber-idUSKBN1441RS">Putin turned Russia election hacks in Trump's favor: U.S. officials.</a> Accessed April 2020.</li>
+    <li id="ref-2">US Senate Select Committee on Intelligence (2018). <a href="https://www.intelligence.senate.gov/publications/committee-findings-2017-intelligence-community-assessment">The Intelligence Community Assessment: Assessing Russian Activities and Intentions in Recent U.S. Elections.</a> Accessed April 2020.</li>
     <li>WannaCry</li>
     <li>blackout Ukriane</li>
     <li>Stuxnet</li>
     <li>TRITON</li>
     <li>economic damage</li>
-</ol>
-
-<h3>References</h3>
-
-<ol>
-    <li></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
 </ol>
 
 
