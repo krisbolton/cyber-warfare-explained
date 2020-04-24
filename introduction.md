@@ -17,16 +17,14 @@ page_nav:
         content: Next Chapter
         url: '/conducting_a_cyber_attack'
 ---
-<sup><a href="">[]</a></sup>
+
 # Introduction
 
-This book aims to examine cyber war for a public audience. The nature of a highly-connected internet, with the proliferation of new paradigmns and technologies including the Internet of Things (IoT) and 5G, along with old issues, such misinformation, mean state cyber operations have increasing potential to effect the daily lives of citizens in all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysists to discover the why, what, when and how of cyber warfare.
+This book aims to examine cyber war for a public audience. The nature of a highly-connected internet, with the proliferation of emerging paradigmns and technologies such as the Internet of Things (IoT) and 5G, along with old issues, such as misinformation, mean state cyber operations have increasing potential to effect the daily lives of citizens of all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysists to discover the why, what, when and how of cyber warfare.
 
-To date, cyber operations have undermined democratic elections in the United States<sup><a href="#ref-1">[1]</a><a href="#ref-2">[2]</a></sup>, disrupted and prevented medical care in the United Kingdom<sup><a href="">[3]</a></sup>, caused blackouts in Ukraine<sup><a href="">[]</a></sup>, physically damaged industrial machinery in Iran<sup><a href="">[]</a></sup>, threatened the safety of human workers in Saudi Arabia<sup><a href="">[]</a></sup> and they damage economies and international order every day<sup><a href="">[]</a></sup>. We will discover the reasons for each of these well-known campaigns, and the lesser known ones.
+To date, cyber operations have undermined democratic elections in the United States<sup><a href="#ref-1">[1]</a><a href="#ref-2">[2]</a></sup>, disrupted and prevented medical care in the United Kingdom<sup><a href="">[3]</a></sup>, caused blackouts in Ukraine<sup><a href="#ref-4">[4]</a></sup>, physically damaged industrial machinery in Iran<sup><a href="#ref-5">[5]</a></sup>, threatened the safety of human workers in Saudi Arabia<sup><a href="#ref-6">[6]</a></sup> and they damage economies and international order every day<sup><a href="#ref-7">[7]</a></sup>. We will discover the reasons for each of these well-known campaigns, and the lesser known ones.
 
-[GRAPH?]
-
-At present, there is no robust understanding of how a country should react to cyber a campaign by an adversary. This makes discouraging undisirable actions difficult. 2019 saw a number of cyber firsts; Israel launched the first kinetic response to a cyber attack - physically destroying the building of the cyber adversary in response to a cyber attack[REF], and the United States launched a cyber attack against Iran in response to the downing of a US drone, rather than launch a kinetic attack[REF]. No significant conflict has occurred solely in cyberspace, so far. Will this happen? What's happened so far? How does cyber fit into the traditional battlefield? How will artificial intelligence change things? This book investigates these topics - and others - drawing on current research and thinking from civilian and military experts.
+At present, there is no robust understanding of how a country should react to cyber a campaign by an adversary<sup><a href="#ref-8">[8]</a></sup>. This makes discouraging undisirable actions difficult. 2019 saw a number of cyber firsts; Israel launched the first kinetic response to a cyber attack - physically destroying the building of the cyber adversary in response to a cyber attack<sup><a href="#ref-9">[9]</a></sup>, and the United States launched a cyber attack against Iran in response to the downing of a US drone, rather than launch a kinetic attack<sup><a href="#ref-10">[10]</a></sup>. No significant conflict has occurred solely in cyberspace, so far. Will this happen? What's happened so far? How does cyber fit into the traditional battlefield? How will artificial intelligence change things? This book investigates these topics - and others - drawing on current research and thinking from civilian and military experts.
 
 ![](/images/idf_air_strike_cyber.png)
 _The building destroyed by an Israeli airstrike, 5th May 2019. "HamasCyberHQ.exe has been removed."_
@@ -42,14 +40,14 @@ It may seem strange to start by asking if something exists, after all, you're re
 
 Cyber war is a contentious topic, to the point where some experts argue it doesn't exist. The difficulty lies within the definition; the term 'war' does not accurately describe the events often referred to when the term 'cyber war' is invoked. Even the events described in the prelude above; Ukraine's [YEAR] power outage, Russian [YEAR] election meddling in the United States and the North Korean launched malware which disrupted medical care in the United Kingdom in 2014 were all incidents dealt with within the context of international relations. The events did not lead to anything resembling what is considered 'war'. A 'cyber war' could accurately describe a protracted back-and-forth of damaging cyber-attacks between nations. If the question is 'Has a cyber war occurred?', the answer is no. Not yet, anyway.
 
-Researchers suggest adopting the word 'warfare', as it does not convey scale or protraction and describes 'warlike' actions. 'Cyber warfare' better encapsulates the different motivations which spur nations to conduct cyber operations. 'Cyber warfare' most definitely exists; the number of countries investing in cyber personnel increases each year, as does the number and complexity of state and state-sponsored attacks.
+Researchers suggest adopting the word 'warfare', as it does not convey scale or protraction and describes 'warlike' actions. 'Cyber warfare' better encapsulates the different motivations which spur nations to conduct cyber operations <sup><a href="#ref-11">[11]</a></sup>. 'Cyber warfare' most definitely exists; the number of countries investing in cyber personnel increases each year, as does the number and complexity of state and state-sponsored attacks.
 
 
 # What is Cyber Warfare
 
-Carl von Clauswitz, a historical titan in the feild of war studies whose name is known to every millitary officer in the West, said "War is the continuation of politics by other means". So to is cyber warfare a continuation of politics by other means. Cyber actions serve as strategic and tactical political tools to apply pressure and create bargining chips within international negotiations, furthering the interests of the nation conducting operations. In 2015 Chinese intrusions against US companies declined ahead of a summit between President Xi and President Obama, according to anacdotal evidence from several US cyber security companies [REF [REUTERS]] - a show of good faith? As the US administration changed and leveraged sanctions against China for a varity of alleged unfair practices, culmanating in tit-for-tat tarrifs and restrictions [REF] in 2019, China increasingly used cyber attacks to balance its retaliation [REF]. Despite China's economic power, the US was able to place $200 billion of tarrifs on Chinese goods, while China could only levy $60 billion of tarrifs due to China buying less US goods [REF]. State-sponsored attacks which are difficult to attribute to governments with high confidence can form a legitimate negotiating position behind closed doors, the operating country may promise to 'crack down on cyber criminals' in return for a more favourable deal for example.
+Carl von Clauswitz, a historical titan in the feild of war studies whose name is known to every millitary officer in the West, said "War is the continuation of politics by other means". So to is cyber warfare a continuation of politics by other means. Cyber actions serve as strategic and tactical political tools to apply pressure and create bargining chips within international negotiations, furthering the interests of the nation conducting operations.
 
-Nor are cyber operations conducted in a vaccum. other examples of tit for tat, lift the veil
+In 2015 Chinese intrusions against US companies declined ahead of a summit between President Xi and President Obama<sup><a href="#ref-12">[12]</a></sup>, according to anacdotal evidence from US cyber security companies<sup><a href="#ref-13">[13]</a></sup><sup><a href="#ref-14">[14]</a></sup> - a show of good faith? As the US administration changed and leveraged sanctions against China for a varity of alleged unfair practices, culmanating in tit-for-tat tarrifs and restrictions in 2019<sup><a href="#ref-15">[15]</a></sup>, China increasingly used cyber attacks to balance its retaliation. Despite China's economic power, the US was able to place $200 billion of tarrifs on Chinese goods, while China could only levy $60 billion of tarrifs due to China buying less US goods<sup><a href="#ref-16">[16]</a></sup>. State-sponsored attacks which are difficult to attribute to governments with high confidence can form a legitimate negotiating position behind closed doors<sup><a href="#ref-17">[17]</a></sup>, the operating country may promise to 'crack down on cyber criminals' in return for a more favourable deal for example.
 
 Cyber operations are not conducted within a vaccum, they may be single-goal missions or they may be one part of a strategy to achieve a broader goal. In [YEAR] a cyber operation, likely conducted by Israel physically destroyed [DISABLED?] rocket batteries [FACTS? SPELLING] in Iran, this single-mission use during active battlefield ...
 
@@ -82,10 +80,16 @@ The chapter ahead
     <li>economic damage</li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li id="ref-12">The Diplomat (2018). <a href="https://thediplomat.com/2018/08/did-the-obama-xi-cyber-agreement-work/">Did the Obama-Xi Cyber Agreement Work? Accessed April 2020.</a></li>
+    <li id="ref-13">Reuters (2015). <a href="https://www.reuters.com/article/us-usa-china-cybersecurity/chinese-computer-hack-attacks-slow-ahead-of-obama-summit-experts-idUSKCN0RJ0SB20150920">Chinese computer hack attacks slow ahead of Obama summit: experts.</a> Accessed April 2020.</li>
+    <li id="ref-14">Cybereason (2018). <a href="https://www.cybereason.com/blog/china-us-trade-war-cyberattack-increase">China increased attacks against  US companies as trade war looms.</a> Accessed April 2020.</li>
+    <li id="ref-15">BBC News (2020). <a href="https://www.bbc.co.uk/news/business-45899310">A quick guide to the US-China trade war.</a> Accessed April 2020.</li>
+    <li id="ref-16">BBC News (2019). <a href="https://www.bbc.co.uk/news/business-48253002">China hits back in trade war with US.</a> Accessed April 2020.</li>
+    <li id="ref-17">Reuters (2019). <a href="https://www.reuters.com/article/us-usa-trade-china-cyber-exclusive/exclusive-u-s-manufacturing-group-hacked-by-china-as-trade-talks-intensified-sources-idUSKBN1XN1AY">U.S. manufacturing group hacked by China as trade talks intensified.</a> Accessed April 2020.</li>
+    <li id=""><a href=""></a></li>
+    <li id=""><a href=""></a></li>
+    <li id=""><a href=""></a></li>
+    <li id=""><a href=""></a></li>
 </ol>
 
 

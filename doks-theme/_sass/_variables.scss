@@ -67,7 +67,9 @@ $font-family-monospace: 'Source Code Pro', monospace !default;
 
 /* ----- Font sizes ----- */
 // Base
-$font-size-base: 1em !default;
+$font-size-base: 1.0em !default;
+// Paragraphs
+$font-size-para: 1.1em;
 
 // Headings
 $font-size-h1: 2.5em !default;

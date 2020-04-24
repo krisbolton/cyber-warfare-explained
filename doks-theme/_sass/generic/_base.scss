@@ -105,6 +105,7 @@ small,
 
 /* ----- Paragraphs ----- */
 p {
+    //font-size: $font-size-para;
 	margin: 0 0 1.25rem 0;
     text-align: justify;
 }
@@ -122,6 +123,13 @@ a:hover,
 a:focus,
 a:active {
     color: $color-material-blue;
+}
+
+/* ----- Reference Links (sup) ----- */
+
+sup a {
+    border-bottom: none;
+    padding-left: .1rem;
 }
 
 /* ----- Images ----- */
