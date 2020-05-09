@@ -25,6 +25,12 @@ page_nav:
 
 This chapter discusses part of the why nations conduct offensive cyber operations through the discussion of  scenario based attacks which a threat actor may conduct against a target.
 
+# Why Nations Conduct Cyber Operations
+
+The first obstacle to individuals understanding cyber warfare is why; "why would they do that?". Individuals are rarely privy to the intricacy and often tit-for-tat nature of international politics and diplomacy. Put simply, if there is an advantage to be gained nations may take action which leverages or creates that advantage. If you, dear reader, have been involved in a negotiation you will have some idea of the complexity and issues involved. Consider the process of selling a property, likely the closest thing most will come to this kind of complexity. Layers of bureaucracy designed to protect both parties; lawyers and solicitors, surveyors, estate agents and mortgage brokers. That mould the seller doesn't tell the buyer about, the structural imperfection the surveyor misses, all the money on lawyers, buyers complain about the seller, sellers complain about the buyer and both about the process. Months later, the transaction finally happens. Not disclosing issues is to the advantage of the seller, they materially gained while the buyer loses. Equally, the buyer is trying to obtain the advantage - the best price - ideally below market value.
+
+State vs state interaction has complexity on a much greater scale, with multiple departments each with tens of thousands of civil servants working together and internationally. When wondering why a nation may conduct an action within the realm of cyber warfare, the first consideration is does it provide an advantage in any form? The intricacies around this simple-sounding question will be explored in the scenarios below.
+
 # Planning an Attack
 
 Attack orders are unlikely to come from Presidents, Prime Ministers or Chancellors, except in times of crisis (US-Iran drone retaliation). Cyber warfare is a day-to-day activity for national Militaries, Government organisations and state-affiliated organisations, such as Unit 61398 of the People Liberation Amry (PLA), Cyber Command (US), Strategic Command (UK)(formerly Joint Forces Command), or a private-state collaberation as seen with [NAME].
