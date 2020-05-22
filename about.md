@@ -18,17 +18,17 @@ The <a href="/articles">articles</a> section is designed to expand on the main c
 
 # Statement
 
-This work does not support any political ideology, nor does it seek to undermine or promote any nation, group, organisation or person. References are from credible sources.
+This work does not support, undermine or promote any political ideology, nation, group, organisation or person. References are from credible sources.
 
 # Who
 
-In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I work in private sector cyber security in the United Kingdom. I hold an MSc in Cyber Security from Wolverhampton Cyber Security Institute (WCRI), where I focused on nation-state cyber threats and the use of artificial intelligence to track advanced threats within networks. I have a technical background in Computer Science (BSc). You can find me @KrisBolton on Twitter or <a href="mailto:cyberwarfaretoday@gmail.com">contact me via email</a>.
+In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I hold an MSc in Cyber Security from Wolverhampton Cyber Security Institute (WCRI), where I focused on nation-state cyber threats and the use of artificial intelligence to predict threat movement within networks. I have a technical background in Computer Science (BSc). You can find me @KrisBolton on Twitter or <a href="mailto:cyberwarfaretoday@gmail.com">contact me via email</a>.
 
 ---
 
 # Road Map
 
-There are currently three complete chapters (although new examples and material are added periodically): Introduction to Cyber Warfare, Conducting a Cyber Attack, and Advanced Persistent Threat (APT).
+There are currently three complete chapters: Introduction to Cyber Warfare, Conducting a Cyber Attack, and Advanced Persistent Threat (APT).
 
 Approximately nine chapters remain:
 

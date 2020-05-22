@@ -20,7 +20,7 @@ page_nav:
 
 # Introduction
 
-This book aims to examine cyber war for a public audience. The nature of a highly-connected internet, with the proliferation of emerging paradigmns and technologies such as the Internet of Things (IoT) and 5G, along with old issues, such as misinformation, mean state cyber operations have increasing potential to effect the daily lives of citizens of all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysists to discover the why, what, when and how of cyber warfare.
+This book aims to illuminate cyber war for a public audience. The nature of a highly-connected internet, with the proliferation of emerging paradigmns and technologies such as the Internet of Things (IoT) and 5G, along with old issues, such as misinformation, mean state cyber operations have increasing potential to effect the daily lives of citizens of all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysts to discover the why, what, when and how of cyber warfare.
 
 To date, cyber operations have undermined democratic elections in the United States<sup><a href="#ref-1">[1]</a><a href="#ref-2">[2]</a></sup>, disrupted and prevented medical care in the United Kingdom<sup><a href="">[3]</a></sup>, caused blackouts in Ukraine<sup><a href="#ref-4">[4]</a></sup>, physically damaged industrial machinery in Iran<sup><a href="#ref-5">[5]</a></sup>, threatened the safety of human workers in Saudi Arabia<sup><a href="#ref-6">[6]</a></sup> and they damage economies and international order every day<sup><a href="#ref-7">[7]</a></sup>. We will discover the reasons for each of these well-known campaigns, and the lesser known ones.
 
@@ -64,7 +64,21 @@ We will discuss the how and why of hypothetical cyber attacks against the mundan
 
 # What's Ahead?
 
-The chapter ahead
+The home page lists the chapters which are to come: 
+
+* **Conducting a Cyber Attack** discusses in more detail how and why nations conduct cyber attacks.
+* **Advanced Persistent Threats (APT)** provides a long and detailed list of known cyber actors and campaigns.
+* **Cyber Threatcasting** discusses techniques for predicting future challenges.
+* **Artificial Intelligence** will discuss scenarios, details and challenges relating to AI and machine learning.
+* **Nuclear Security and Cyber Warfare** will discuss scenarios and detail around the threat to nuclear security.
+* **Computational Propoganda** will discuss the issues and challenges of propoganada in cyberspace.
+* **Cyber on the Battlefield** will discuss the intersection of cyber warfare and the modern battlefield.
+* **The Problem of Attribution** will discuss the specific problem of attribution.
+* **Disruption** will discuss a grey zone tactic of disruption.
+* **The Future** will discuss a broad look at what may come.
+* **Further Information** provides links to further reading and individuals you may wish to follow.
+
+_The above list is not final. Chapters may be changed, removed or merged._
 
 ---
 
