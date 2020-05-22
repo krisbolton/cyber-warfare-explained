@@ -78,7 +78,11 @@ The home page lists the chapters which are to come:
 * **The Future** will discuss a broad look at what may come.
 * **Further Information** provides links to further reading and individuals you may wish to follow.
 
+
+<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+
 _The above list is not final. Chapters may be changed, removed or merged._
+
 
 ---
 
@@ -106,4 +110,5 @@ _The above list is not final. Chapters may be changed, removed or merged._
     <li id=""><a href=""></a></li>
 </ol>
 
+<a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
