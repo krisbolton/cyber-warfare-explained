@@ -16,13 +16,21 @@ Cyber warfare, including disinformation and cyber attacks affect most developed 
 
 The <a href="/articles">articles</a> section is designed to expand on the main content and discuss topical issues and subjects of interest in finer detail.
 
+Please share this site with a friend.
+
 # Statement
 
-This work does not support, undermine or promote any political ideology, nation, group, organisation or person. References are from credible sources.
+This work does not support, undermine or promote any specific political ideology, nation, group, organisation or person. References are from credible sources.
 
 # Who
 
 In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I hold an MSc in Cyber Security from Wolverhampton Cyber Security Institute (WCRI), where I focused on nation-state cyber threats and the use of artificial intelligence to predict threat movement within networks. I have a technical background in Computer Science (BSc). You can find me @KrisBolton on Twitter or <a href="mailto:cyberwarfaretoday@gmail.com">contact me via email</a>.
+
+# Patreon and Perks
+
+This project is an on-going research effort, support via Patreon allows me to dedicate more time and resources to its completion. Even if you don't have a Patreon account, please do consider it.
+
+In return for your patronage you will get access to content previews, discussions, Q&A and vote on which content comes next.
 
 ---
 

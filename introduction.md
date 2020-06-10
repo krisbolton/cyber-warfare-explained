@@ -31,7 +31,7 @@ _The building destroyed by an Israeli airstrike, 5th May 2019. "HamasCyberHQ.exe
 _Source: [Twitter, Israel Defense Forces](https://twitter.com/idf/status/1125066395010699264?lang=en)_
 
 <div class="callout callout--info">
-<b>Hi there.</b> Please consider <a href=""><i>supporting this project</i></a> via Patreon, even if you've never patreon'd before. This book is an on-going research-led project and support allows me to dedicate more time to its completion.
+<b>Hi there.</b> Please consider <a href=""><i>supporting this project</i></a> via Patreon, even if you've never patreon'd before. This book is an on-going project and support allows me to dedicate more time to its completion. Patron's get <a href="../about/#patreon-and-perks"><i>perks</i></a>.
 </div>
 
 # Does Cyber War Exist?
