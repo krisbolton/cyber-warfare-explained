@@ -1,20 +1,8 @@
----
-# Page settings
-layout: glossary
-keywords:
-comments: false
-
-# Hero section
-title: Glossary
-description: A list of words and their definitions relating to cyber warfare.
-
----
-
-<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
+I"Á‹<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
 
 <p><code>ctrl + f</code> can be used to find specific words quickly.</p>
 
-<hr class="hr-space-surround">
+<hr class="hr-space-surround" />
 
 <div id="alphabet-nav">
     <div>    
@@ -63,7 +51,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="802.11">802.11</h5>
 <p>A wireless <a href="#communication-protocol"><i>protocol</i></a> <a href="#standard"><i>standard</i></a> created by <a href="#ieee"><i>IEEE</i></a>. As new standards are released the alphabetic character(s) at the end change, e.g., 802.11a, 802.11b.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -86,7 +74,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Attribution</h5>
 <p>The process of determining who conducted an action. In security this is often measured in degrees of confidence, rather than an absolute statement.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -115,7 +103,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="byte">Byte</h5>
 <p>A unit of informaiton consisting of eight <a href="#bit"><i>bits</i></a>.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -132,8 +120,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="client">Client</h5>
 <p>Computer hardware or software that accesses a service made available by a <a href="#server"><i>server</i></a>. For example, a web browser is a client which accesses web servers.</p>
 
-<h5 id="c&c">Command & Control (C&C) Server</h5>
-<p>A computer controlled by a threat actor which is used to send commands to systems compromised by <a href="#malware"><i>malware</i></a>. <a href="#botnet"><i>Botnets</i></a> will have one or more C&C servers.</p>
+<h5 id="c&amp;c">Command &amp; Control (C&amp;C) Server</h5>
+<p>A computer controlled by a threat actor which is used to send commands to systems compromised by <a href="#malware"><i>malware</i></a>. <a href="#botnet"><i>Botnets</i></a> will have one or more C&amp;C servers.</p>
 
 <h5 id="communication-protocol">Communication Protocol</h5>
 <p>A formal set of rules that allow two or more tentities to exchange information. The rules define syntax, semantics, synchronization of communication and errors.</p>
@@ -147,7 +135,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Common Vulnerabilities and Exposures (CVE)</h5>
 <p>An online database of vulnerabilities and compromises known for any type of computer system or software product. Often new attacks and exploits are documented as a CVE before a vendor admits to the issue or releases an update to resolve the issue.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -167,14 +155,13 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="ddos">Distributed Denial of Servicce (DoS)</h5>
 <p>A cyber-attack in which a threat actor seeks to make a machine or network resource unavailable to its intended users by saturating the network connection to the resource with requests from multiple machines. This is typically done with <a href="#botnet"><i>botnets</i></a>.</p>
 
-
 <h5>DNS</h5>
-<p>A hierarchical and decentralized naming system for computers, services or other resources connected to the <a href="#internet"><i>internet</i></a> or a private network. DNS translates human-readable addresses (www.google.com) into machine-readable <a href="#ip-address"><i>IP addresses</i></a> (172.217.169.46) from a globally distributed directory.</p> 
+<p>A hierarchical and decentralized naming system for computers, services or other resources connected to the <a href="#internet"><i>internet</i></a> or a private network. DNS translates human-readable addresses (www.google.com) into machine-readable <a href="#ip-address"><i>IP addresses</i></a> (172.217.169.46) from a globally distributed directory.</p>
 
 <h5>Driver</h5>
 <p>A device driver is software that operates a particular type of device that is attached to a computer. This means new hardware can be added to a computer without the operating system knowing details of the device. For example, when a new printer is connected, a computer will typically download drivers to allow it to work, users may have to manually install these.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -188,11 +175,10 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="exabyte">Exabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Exa" indicates multiplication by the sixth power of 1000 or 10<sup>18</sup>. An extabyte (EB) is a measure of storage capacity equal to approximately 1,000 petabytes (PB), a million terabytes (TB) or a billion gigabytes (GB).</p>
 
-
 <h5>Exploit</h5>
 <p>A piece of software or a sequence of commands that takes advantage of a <a href="#vulnerability"><i>vulnerability</i></a> to cause unintended or unanticipated behavior to occur in computer software or hardware.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -206,7 +192,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>File Transfer Protocol (FTP)</h5>
 <p>A <a href="#protocol"><i>protocol</i></a> for the transfer of files between a client and server over a network.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -214,7 +200,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="gigabyte">Gigabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. A gigabyte (GB) is a measure of storage capacity equal to approximately 1,000 megabytes (GB) or a million kilobytes (KB).</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -228,7 +214,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Hypervisor</h5>
 <p>Software that creates and runs <a href="#virtual-machine"><i>virtual machines</i></a>. May also be used to refer to the machine running the software.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -269,7 +255,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>ISO xxxx</h5>
 <p></p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -279,9 +265,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A general-purpose programming language designed to work accross systems - the so called "write once, run anywhere" principle. Depending on method of analysis, Java is the 1<sup>st</sup> or 2<sup>nd</sup> most popular programming language. In 2014 Oracle claimed Java ran over 3 billion devices.</p>
 
 <h5>JavaScript</h5>
-<p>A <a href="#www"><i>web</i></a> programming language, along side HTML and CSS, used to add interactive functionality to web pages. JavaScript has been used also been used <a href="#server">servers</a> since 2009 using Node.js. JavaScript is not related to the programming language <a href="#java"><i>Java</i></a>.</p>
+<p>A <a href="#www"><i>web</i></a> programming language, along side HTML and CSS, used to add interactive functionality to web pages. JavaScript has been used also been used <a href="#server">servers</a> since 2009 using Node.js. JavaScript is not related to <a href="#java"><i>Java</i></a>.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -292,10 +278,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="kilobyte">Kilobyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. A kilobyte (kB) is a measure of storage capacity equal to approximately 1,000 bytes.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
-
 
 <h3 id="L">L</h3>
 <h5>Local Area Network (LAN)</h5>
@@ -305,9 +290,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>Refers to a low-level of abstraction. For example, "Low-level programming language", meaning the language interacts directly with hardware (e.g. <a href=""><i>C</i></a>), or runs directly on the hardware (e.g. <a href="#assembly"><i>assembly</i></a> or <a href="#machine-code"><i>machine code</i></a>). See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
 
 <h5>Linux</h5>
-<p>A family of <a href="#unix"><i>Unix-like</i></a> operating systems based on the open-source Linux kernal, first released in 1991 by Linus Torvalds. Popular Linux versions (also called distributions) are Ubuntu, Arch Linux and Fedora, however, there are hundreds of versions. Some are designed for specific purposes; scientific analysis, digital forensics, penetration testing, etc.</p>
+<p></p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -333,13 +318,13 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Money laundering</h5>
 <p>The process of concealing the source of money obtained illegally, by carrying out financial transactions or operating fake businesses in order to camouflage the illegal source.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
 <h3 id="N">N</h3>
 <h5 id="nato">NATO</h5>
-<p>The North Atlantic Treaty Organization is an intergovernmental alliance of 30 nations designed to foster military co-operation and enshrine collective defense to deter large-scale wars equivilant to the two Word Wars. NATO continues to add nation members, and has a number of partnership status designations, including 'Partners for Peace' and 'Global Partners', among others, who work towards specific aims through cooperation.</p>
+<p></p>
 
 <h5>NCI Agency</h5>
 <p>The <a href="#nato"><i>NATO</i></a> Communications and Information (NCI) Agency responsible for NATO <a href="#c4isr"><i>C4ISR</i></a>, including consultation and training.</p>
@@ -347,7 +332,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Non-repudiation</h5>
 <p>The ability to prove that a specific individual has carried out an activity on a computer or online, so that it cannot later be denied.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -376,7 +361,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="owned">Owned</h5>
 <p>Slang. Describing when a computer has been taken over by a malicious <a href="#actor"><i>actor</i></a>.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -402,24 +387,21 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Python</h5>
 <p></p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
 <h3 id="Q">Q</h3>
 
-<p>No "Q" entries at this time.</p>
-
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
 <h3 id="R">R</h3>
 
-Router
+<p>Router</p>
 
-
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -486,7 +468,7 @@ Router
 <h5>Switch</h5>
 <p></p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -515,7 +497,7 @@ Router
 <h5>Two-factor authentication</h5>
 <p>Obtaining evidence of identity by two independent means, such via password and an authenticator cellular/mobile phone application.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -530,9 +512,9 @@ Router
 <p>A type of <a href="#uri"><i>Uniform Resource Identifier (URI)</i></a> that identifies the resources network location, typically on the <a href="#internet"><i>internet</i></a>. URLs only represent a resources location. For example, https://en.wikipedia.org/wiki/Main_Page is the location of the main page of Wikipedia. <a href="#dns"><i>DNS (Domain Name System)</i></a> is used to parse URLs.</p>
 
 <h5 id="unix">Unix</h5>
-<p>A family of operating systems that derive from the original AT&T Unix released in 1971. Unix systems are characterized by a modular design and other design philosphy which differ from other operating systems.</p>
+<p>A family of operating systems that derive from the original AT&amp;T Unix. Unix systems are characterized by a modular design and other design philosphy which differ from other operating systems.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -559,7 +541,7 @@ Router
 <h5 id="vulnerability">Vulnerability</h5>
 <p>A flaw or weakness that can be used to attack a system or organization.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -579,7 +561,6 @@ Router
 <h5>Website</h5>
 <p>A collection of web pages and related content that is identified by a domain name and published on at least one web <a href="#server"><i>server</i></a>.</p>
 
-
 <h5>WHOIS</h5>
 <p>A query and response protocol for retrieving the registered users of an internet resource, such as a domain name.</p>
 
@@ -589,8 +570,7 @@ Router
 <h5>Wired Equivilent Priacy (WEP)</h5>
 <p>An encryption <a href="#communication-protocol"><i>protocol</i></a> for wireless local area networks defined in the <a href="#ieee"><i>IEEE</i></a> <a href="#technical-standard"><i>standard</i></a> <a href="#802.11"><i>802.11b</i></a>.</p>
 
-Wireless hotspot
-
+<p>Wireless hotspot</p>
 
 <h5 id="www">World Wide Web (WWW)</h5>
 <p>An collection of documents and other resources which are accessible over the <a href="#internet"><i>internet</i></a> using a <a href="#uri"><i>URI (Universal Resource Identifier)</i></a>. Also see <a href="#url"><i>URL (Universal Resource Locator)</i></a> and <a href="#dns"><i>DNS (Domain Name Service)</i></a> for related definitions and concepts.</p>
@@ -598,7 +578,7 @@ Wireless hotspot
 <h5 id="worm">Worm</h5>
 <p><a href="#malware"><i>Malware</i></a> which executes independently, propagating onto other host computer systems, and may consume large amounts of resources until a system becomes unresponsive. Also see <a href="#virus"><i>virus</i></a>.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -606,7 +586,7 @@ Wireless hotspot
 
 <p>No "X" entries at this time.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -614,7 +594,7 @@ Wireless hotspot
 <h5>Yottabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Yotta" indicates multiplication by the eighth power of 1000 or 10<sup>24</sup>. A yottabyte (YB) is a measure of storage capacity equal approximately 1,000 zettabytes (ZB), a trillion terabytes (TB) or a million trillion megabytes (MB).</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
 <!-- -->
 
@@ -628,4 +608,5 @@ Wireless hotspot
 <h5 id="zombie">Zombie</h5>
 <p>A computer which has been compromised by malware and is under the control of a threat actor. May form part of a <a href="#botnet"><i>botnet</i></a>.</p>
 
-<a href="#top" class="btn--small btn--rounded">Back to Top</a>
+<p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
+:ET

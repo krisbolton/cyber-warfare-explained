@@ -49,7 +49,7 @@ grid_navigation:
       cta: Read now
       status: nav-grid__item--inactive
       url: '#'
-    - title: Cyber on the Battlefeild
+    - title: Cyber on the Battlefield
       excerpt: Chapter to come.
       cta: Read now
       status: nav-grid__item--inactive

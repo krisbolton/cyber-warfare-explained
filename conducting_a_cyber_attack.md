@@ -35,6 +35,16 @@ Beyond 'advantage', you must look at the chain of events which lead to an action
 
 When you wonder why a nation may conduct an action within the realm of cyber warfare, you must trace the chain of events which lead to the action, put yourself in the shoes of each party and consider does the action provide advantage (inc. punishment for a previous action)? 
 
+# Shared Tools and Services?
+
+Threat actors regularly share tools, not because they are in contact, but by the nature of the internet, open source community and programming culture. 
+
+Here are some links to cyber weapons, link, link, link - you won't be able to use these without expertise, and if you possess the knowledge I do not encourge you to use them.
+
+NSA cyber weapons leaked
+
+stockpiling zero days
+
 # Planning an Attack
 
 Attack orders are unlikely to come from Presidents, Prime Ministers or Chancellors, except in times of crisis (US-Iran drone retaliation). Cyber warfare is a day-to-day activity for national Militaries, Government organisations and state-affiliated organisations, such as Unit 61398 of the People Liberation Amry (PLA), Cyber Command (US), Strategic Command (UK)(formerly Joint Forces Command), or a private-state collaberation as seen with [NAME].
@@ -44,49 +54,53 @@ Attack orders are unlikely to come from Presidents, Prime Ministers or Chancello
 [IMAGE]
 
 
-# Historic Scenarios
-Scenarios from recent history.
-## Scenario One
+# Historic Events
+
+Cyber warfare is shrouded in a digital fog of war, the following events occured and the reasoning described holds up to logic, however, the entire truth is not known.
+
+## Event One
 ### An Industrial Target
 
-
+TRITON
 Steal designs
 Disrupt
 Retribution
 
 
-## Scenario Two
+## Event Two
 ### A Telecoms Target
 
+Find source
 Steal subscriber information
 Target individual
 Build database
 
 
-## Scenario Three
+## Event Three
 ### Broad Target(s)
 
 Shotgun approach, WannaCry
 
 
 # Future Scenarios
-Example scenarios exploring possible future actions.
-## Scenario Four
-### A Military Target
 
+Breif example scenarios exploring possible future actions.
+
+## Scenario One
+### A Military Target
 
 Disruption
 Domination
 
 
-## Scenario Five
+## Scenario Two
 ### Farming?
 
 At first glance, Farming may appear to be immune from the issues surrounding cyber security. Upon closer inspection, farming represents a high impact (strategic and economic) target with significant use of technology at every level of production and supply. However, this scenario will not focus on the more obvious technology exploitation and will instead explore the manipulation of public opinion through computational propoganda. This type of 'attack' appears unlikely and incomprehensible to the public being manipulated would find this difficult to beleive. The more a campaign is reminicent of a conspiracy theory, the more operational protection it is afforded by a cloak of confusion and deniability. The public, often a pressure on politicans - the tools that are often required to take action at a national level - are unaware, unsure or deny, security services are slowed attempting to desern what is real and what is not,.
 
-# Shared Tools and Services?
+# Chapter Summary
 
-Threat actors regularly share tools, not because they are in contact, but by the nature of the internet, open source community and programming culture. 
+This chapter was designed to introduce some of the many reasons why a national threat actor may condcut cyber operations. This was best achieved by discussing multiple scenarios as reasoning can differ wildly between campaigns. We discussed building the habit of placing yourself into the shoes of the opposing sidein an attempt to understand the situation more fully. Understanding is the starting point of descalation and a prolonged peace.
 
 ---
 

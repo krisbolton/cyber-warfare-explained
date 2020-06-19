@@ -1,0 +1,76 @@
+I"c<h1 id="chapter-introduction">Chapter Introduction</h1>
+
+<p>This chapter discusses part of the why nations conduct offensive cyber operations through the discussion of  scenario based attacks which a threat actor may conduct against a target.</p>
+
+<h1 id="why-nations-conduct-cyber-operations">Why Nations Conduct Cyber Operations</h1>
+
+<p>The first obstacle to understanding cyber warfare is why; “why would they do that?”. We cannot cover the all of the reasons nations conduct cyber operations, this would require an enitre book to itself.</p>
+
+<p>Individuals are rarely privy to the intricacy and often tit-for-tat nature of international politics and diplomacy. Put simply, if there is an advantage to be gained nations may take action which leverages or creates that advantage. If you, dear reader, have been involved in a negotiation you will have some idea of the complexity and issues involved. Consider the process of selling a property, likely the closest thing most will come to this kind of complexity. Layers of bureaucracy designed to protect both parties; lawyers and solicitors, surveyors, estate agents and mortgage brokers. That mould the seller doesn’t tell the buyer about, the structural imperfection the surveyor misses, all the money spent on lawyers. The buyer complain about the seller, the seller complain about the buyer and both about the process. Months later, the transaction finally happens. Not disclosing issues is to the advantage of the seller, they materially gained while the buyer loses. Equally, the buyer is trying to obtain the advantage - the best price - ideally the property below market value. State vs state interaction has complexity on a much greater scale, with multiple departments each with tens of thousands of civil servants working together and internationally.</p>
+
+<p>Beyond ‘advantage’, you must look at the chain of events which lead to an action and put yourself in the shoes of the other side. Many news organisations and national governments are keen to paint one side as the enemy, the narative sells and appeals to many. Reality isn’t as simple as this. As we elluded previosuly, the complexity of state-to-state interaction is immense, reactions to each nations actions lead to misunderstandings or intended harm.</p>
+
+<p>When you wonder why a nation may conduct an action within the realm of cyber warfare, you must trace the chain of events which lead to the action, put yourself in the shoes of each party and consider does the action provide advantage (inc. punishment for a previous action)?</p>
+
+<h1 id="planning-an-attack">Planning an Attack</h1>
+
+<p>Attack orders are unlikely to come from Presidents, Prime Ministers or Chancellors, except in times of crisis (US-Iran drone retaliation). Cyber warfare is a day-to-day activity for national Militaries, Government organisations and state-affiliated organisations, such as Unit 61398 of the People Liberation Amry (PLA), Cyber Command (US), Strategic Command (UK)(formerly Joint Forces Command), or a private-state collaberation as seen with [NAME].</p>
+
+<p>‘Advanced’ threat actors follow a similar attack method to typical <a href="">“black hat”</a> hackers, the major differences are the cyclical nature of the attack, the level of skill (advanced) which is due to the size of the organisation behind the attack and the sustained motivation (persistence) of the attackers. Hence the acrynm often used to describe state and state-sponsored actors, Advanced Persistent Threat (APT).</p>
+
+<p>[IMAGE]</p>
+
+<h1 id="historic-events">Historic Events</h1>
+
+<p>Cyber warfare is shrouded in a digital fog of war, the following events occured and the reasoning described holds up to logic, however, the entire truth is not known.</p>
+
+<h2 id="event-one">Event One</h2>
+<h3 id="an-industrial-target">An Industrial Target</h3>
+
+<p>Steal designs
+Disrupt
+Retribution</p>
+
+<h2 id="event-two">Event Two</h2>
+<h3 id="a-telecoms-target">A Telecoms Target</h3>
+
+<p>Steal subscriber information
+Target individual
+Build database</p>
+
+<h2 id="event-three">Event Three</h2>
+<h3 id="broad-targets">Broad Target(s)</h3>
+
+<p>Shotgun approach, WannaCry</p>
+
+<h1 id="future-scenarios">Future Scenarios</h1>
+
+<p>Example scenarios exploring possible future actions.</p>
+
+<h2 id="scenario-one">Scenario One</h2>
+<h3 id="a-military-target">A Military Target</h3>
+
+<p>Disruption
+Domination</p>
+
+<h2 id="scenario-two">Scenario Two</h2>
+<h3 id="farming">Farming?</h3>
+
+<p>At first glance, Farming may appear to be immune from the issues surrounding cyber security. Upon closer inspection, farming represents a high impact (strategic and economic) target with significant use of technology at every level of production and supply. However, this scenario will not focus on the more obvious technology exploitation and will instead explore the manipulation of public opinion through computational propoganda. This type of ‘attack’ appears unlikely and incomprehensible to the public being manipulated would find this difficult to beleive. The more a campaign is reminicent of a conspiracy theory, the more operational protection it is afforded by a cloak of confusion and deniability. The public, often a pressure on politicans - the tools that are often required to take action at a national level - are unaware, unsure or deny, security services are slowed attempting to desern what is real and what is not,.</p>
+
+<h1 id="shared-tools-and-services">Shared Tools and Services?</h1>
+
+<p>Threat actors regularly share tools, not because they are in contact, but by the nature of the internet, open source community and programming culture.</p>
+
+<hr />
+
+<h3>Foot Notes</h3>
+
+<ol>
+    <li></li>
+
+</ol>
+
+<h3>References</h3>
+
+:ET
