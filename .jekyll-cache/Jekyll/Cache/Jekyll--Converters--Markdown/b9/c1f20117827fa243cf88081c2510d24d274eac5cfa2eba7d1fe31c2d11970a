@@ -1,102 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-	<head>
-		<meta charset="UTF-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="viewport" content="width=device-width, minimum-scale=1.0">
-<title>Introduction to Cyber Warfare</title>
-
-	<meta name="description" content="An introduction to cyber warfare, the grey zone and the chapters ahead.">
-
-
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,700,700i|Noto+Sans:400,400i,700,700i|Source+Code+Pro&amp;subset=latin-ext">
-<link rel="stylesheet" href="/doks-theme/assets/css/style.css">
-
-	</head>
-	<body class="blue" data-spy="scroll" data-target=".js-scrollspy">
-		
-	<div class="offcanvas visible-xs">
-		<ul class="offcanvas__nav">
-			
-				<li><a href="/about">About</a></li>
-			
-				<li><a href="/glossary">Glossary</a></li>
-			
-				<li><a href="/articles">Articles</a></li>
-			
-				<li><a href="#">Patreon</a></li>
-			
-		</ul><!-- /.offcanvas__nav -->
-	</div><!-- /.offcanvas -->
-
-
-
-	<header class="site-header">
-		<div class="container" role="navigation" aria-label="primary navigation">
-			<div class="row">
-				<div class="col-xs-12">
-					
-						<a href="/" class="site-header__logo">Cyber Warfare Today</a>
-					
-					
-						<ul class="site-header__nav hidden-xs">
-							
-								<li><a href="/about">About</a></li>
-							
-								<li><a href="/glossary">Glossary</a></li>
-							
-								<li><a href="/articles">Articles</a></li>
-							
-								<li><a href="#">Patreon</a></li>
-							
-						</ul><!-- /.site-header__nav -->
-						<button class="offcanvas-toggle visible-xs">
-							<span></span>
-							<span></span>
-							<span></span>
-						</button><!-- /.offcanvas-toggle -->
-					
-				</div><!-- /.col -->
-			</div><!-- /.row -->
-		</div><!-- /.container -->
-	</header><!-- /.site-header -->
-
-
-		<div class="hero-subheader" role="banner">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-7">
-						<div class="align-container" data-mh>
-							<div class="align-inner">
-								
-									<h1 class="hero-subheader__title">Introduction to Cyber Warfare</h1>
-								
-								
-									<p class="hero-subheader__desc">An introduction to cyber warfare, the grey zone and the chapters ahead.</p>
-								
-								
-									
-									
-										<a href="/conducting_a_cyber_attack" class="btn btn--dark btn--rounded btn--w-icon">
-											<i class="icon icon--arrow-right"></i>
-											Next Chapter
-										</a>
-									
-								
-							</div><!-- /.align-inner -->
-						</div><!-- /.align-container -->
-					</div><!-- /.col -->
-					
-				</div><!-- /.row -->
-			</div><!-- /.container -->
-		</div><!-- /.hero-subheader -->
-		<div class="section">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-7">
-						<div class="content" role="main">
-							<h1 id="introduction">Introduction</h1>
+I"�/<h1 id="introduction">Introduction</h1>
 
 <p>This book aims to illuminate cyber war for a public audience. The nature of a highly-connected internet, with the proliferation of emerging paradigmns and technologies such as the Internet of Things (IoT) and 5G, along with old issues, such as misinformation, mean state cyber operations have increasing potential to effect the daily lives of citizens of all nations. We will cut though (but not skip) the technical aspects of complex multi-layered cyber attacks, dive into international relations and become analysts to discover the why, what, when and how of cyber warfare.</p>
 
@@ -136,7 +38,7 @@
 
 <p>“We’re seeing state and non-state actors alike operating in that ‘sombre’ zone below the threshold of war - unconstrained by previously accepted norms - using all tools in their armoury, and weaponising informaiton to catch us off guard to destabilise our societies and our support systems. If we’re to respond, we must have strategic intergration across the five warfighting domains: land, sea, space and cyber.” - Penny Mordaunt, Former United Kingdom Defense Secretary (2018-2019)</p>
 
-<p>Cyber warfare is increasingly used to exploit the “grey zone”; an area between cyber, military and civilian activities which would not reasonbly lead to war. While it often does include non-cyber actions, we will limit disucssion to cyber. These activities are conducted to further the interests of the operating country and often involve stealing, spying, disrupting or otherwise frustrating businesses or sectors of an economy. “Interests” is a broad and vauge term refering to anything from international alliances, national infrastructure to mundane and seemingly unimportant items such as salmon, potatoes or wine. “Frustrate” is an equally broad and vague term, refering to any negative impact an adversary can levy against a target. Reasons vary widly for conducting operations. Breifly, some observed reasons include: tit-for-tat punishment, in [YEAR] Russia hackers launched a cyber attack to punish Ukraine for removing Soviet era statues in what was percieved by Russia as an attempt to re-write history [REF]. [MORE]</p>
+<p>Cyber warfare is increasingly used to exploit the “grey zone”; an area between cyber, military and civilian activities which would not reasonbly lead to war. While it often does include non-cyber actions, we will limit disucssion to cyber. These activities are conducted to further the interests of the operating country and often involve stealing, spying, disrupting or otherwise frustrating businesses or sectors of an economy. “Interests” is a broad and vauge term refering to anything from international alliances, national infrastructure to mundane and seemingly unimportant items such as salmon, potatoes or wine. “Frustrate” is an equally broad and vague term, refering to any negative impact an adversary can levy against a target. Reasons vary widly for conducting operations. Breifly, some observed reasons include: tit-for-tat punishment, in [YEAR] Russia hackers launched a cyber attack to punish Ukraine for removing Soviet era statues in what was percieved by Russia as an attempt to re-write history [REF].</p>
 
 <p>We will discuss the how and why of hypothetical cyber attacks against the mundane salmon and unimportant potato markets in the next chapter ‘Conducting Cyber Attacks’.</p>
 
@@ -147,9 +49,9 @@
 <ul>
   <li><strong>Conducting a Cyber Attack</strong> discusses in more detail how and why nations conduct cyber attacks.</li>
   <li><strong>Advanced Persistent Threats (APT)</strong> provides a long and detailed list of known cyber actors and campaigns.</li>
-  <li><strong>Cyber Threatcasting &amp; Futures Prediction</strong> discusses techniques for predicting future challenges.</li>
+  <li><strong>Cyber Threatcasting</strong> discusses techniques for predicting future challenges.</li>
   <li><strong>Artificial Intelligence</strong> will discuss scenarios, details and challenges relating to AI and machine learning.</li>
-  <li><strong>Nuclear Security &amp; Cyber Warfare</strong> will discuss scenarios and detail around the threat to nuclear security.</li>
+  <li><strong>Nuclear Security and Cyber Warfare</strong> will discuss scenarios and detail around the threat to nuclear security.</li>
   <li><strong>Computational Propoganda</strong> will discuss the issues and challenges of propoganada in cyberspace.</li>
   <li><strong>Cyber on the Battlefield</strong> will discuss the intersection of cyber warfare and the modern battlefield.</li>
   <li><strong>The Problem of Attribution</strong> will discuss the specific problem of attribution.</li>
@@ -190,135 +92,4 @@
 
 <p><a href="#top" class="btn--small btn--rounded">Back to Top</a></p>
 
-
-						</div><!-- /.content -->
-					</div><!-- /.col -->
-					<div class="col-md-4 col-md-offset-1">
-						<div class="sections-list-wrapper">
-							<div class="sections-list js-sections js-affix js-scrollspy hidden-xs hidden-sm"></div><!-- /.sections-list -->
-						</div>
-					</div><!-- /.col -->
-				</div><!-- /.row -->
-			</div><!-- /.container -->
-		</div><!-- /.section -->
-		
-		<div class="js-footer-area">
-			
-				<nav class="page-nav">
-					<div class="container">
-						<div class="row">
-							<div class="col-xs-12">
-								
-								
-									<a href="/conducting_a_cyber_attack" class="page-nav__item page-nav__item--next">
-										Next Chapter
-										<i class="icon icon--arrow-right"></i>
-									</a><!-- /.page-nav__item -->
-								
-							</div><!-- /.col -->
-						</div><!-- /.row -->
-					</div><!-- /.container -->
-				</nav><!-- /.page-nav -->
-			
-			
-				<div class="micro-nav" role="navigation" aria-label="secondary navigation">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12">
-				<a href="/" class="micro-nav__back">
-					<i class="icon icon--arrow-left"></i>
-					Back to homepage
-				</a><!-- /.micro-nav__back -->
-			</div><!-- /.col -->
-		</div><!-- /.row -->
-	</div><!-- /.container -->
-</div><!-- /.micro-nav -->
-
-			
-			
-	<footer class="site-footer">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-6">
-					
-						<a href="/" class="site-footer__logo">Cyber Warfare Today</a>
-					
-					
-						<hr>
-						<p class="site-footer__copyright"><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="mailto:cyberwarfaretoday@gmail.com">Contact</a></p>
-					
-				</div><!-- /.col -->
-				
-					<div class="col-sm-6 align-right">
-						<ul class="social-list">
-							
-								<li>
-									<a href="https://twitter.com/krisbolton" target="_blank" class="social-list__item social-list__item--twitter">
-										<i class="icon icon--twitter"></i>
-									</a>
-								</li>
-							
-						</ul><!-- /.social-list -->
-					</div><!-- /.col -->
-				
-			</div><!-- /.row -->
-		</div><!-- /.container -->
-	</footer><!-- /.site-footer -->
-
-
-<script src="/doks-theme/assets/js/vendor/jquery.min.js"></script>
-<script src="/doks-theme/assets/js/vendor/bootstrap/affix.min.js"></script>
-<script src="/doks-theme/assets/js/vendor/bootstrap/scrollspy.min.js"></script>
-<script src="/doks-theme/assets/js/vendor/matchHeight.min.js"></script>
-<script src="/doks-theme/assets/js/scripts.min.js"></script>
-
-
-
-
-<!-- from https://jekyllcodex.org/without-plugin/cookie-consent/ -->
-<!-- Currently set for warning and information only -->
-
-<div id="cookie-notice"><span>This website uses cookies to improve your experience, by using this website you agree to their use.</span><a id="cookie-notice-accept" class="btn--consent-approve btn--rounded">Accept</a><a href="/privacy-policy" class="consent-link">More info</a></div>
-
-<script>
-    function createCookie(name,value,days) {
-        var expires = "";
-        if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days*24*60*60*1000));
-            expires = "; expires=" + date.toUTCString();
-        }
-        document.cookie = name + "=" + value + expires + "; path=/";
-    }
-    function readCookie(name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for(var i=0;i < ca.length;i++) {
-            var c = ca[i];
-            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-        }
-        return null;
-    }
-    function eraseCookie(name) {
-        createCookie(name,"",-1);
-    }
-
-    if(readCookie('cookie-notice-dismissed')=='true') {
-        
-        //functionality unblocked here
-        
-    } else {
-        document.getElementById('cookie-notice').style.display = 'block';
-    }
-    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('cookie-notice-dismissed','true',31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
-    });
-
-</script>
-
-		</div><!-- /.js-footer-area -->
-	</body>
-</html>
+:ET

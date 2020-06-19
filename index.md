@@ -29,7 +29,7 @@ grid_navigation:
       cta: Read now
       status: nav-grid__item
       url: '/advanced_persistent_threats_APT'
-    - title: Cyber Threatcasting
+    - title: Cyber Threatcasting & Futures Prediction
       excerpt: Chapter to come.
       cta: Read now
       status: nav-grid__item--inactive
@@ -39,7 +39,7 @@ grid_navigation:
       cta: Read now
       status: nav-grid__item--inactive
       url: '#'
-    - title: Nuclear Security and Cyber Warfare
+    - title: Nuclear Security & Cyber Warfare
       excerpt: Chapter to come.
       cta: Read now
       status: nav-grid__item--inactive

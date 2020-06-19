@@ -45,9 +45,11 @@ Researchers suggest adopting the word 'warfare', as it does not convey scale or 
 
 # What is Cyber Warfare
 
-Carl von Clauswitz, a historical titan in the feild of war studies whose name is known to every millitary officer in the West, said "War is the continuation of politics by other means". So to is cyber warfare a continuation of politics by other means. Cyber actions serve as strategic and tactical political tools to apply pressure and create bargining chips within international negotiations, furthering the interests of the nation conducting operations.
+Carl von Clauswitz, a historical titan in the field of war studies whose name is known to every millitary officer in the West, said "War is the continuation of politics by other means". So to is cyber warfare a continuation of politics by other means. Cyber actions serve as strategic and tactical political tools to apply pressure and reenforce positions within international negotiations, furthering the interests of the nation conducting operations.
 
 In 2015 Chinese intrusions against US companies declined ahead of a summit between President Xi and President Obama<sup><a href="#ref-12">[12]</a></sup>, according to anacdotal evidence from US cyber security companies<sup><a href="#ref-13">[13]</a></sup><sup><a href="#ref-14">[14]</a></sup> - a show of good faith? After the US administration changed and leveraged sanctions against China for a varity of alleged unfair practices, culmanating in tit-for-tat tarrifs and restrictions in 2019<sup><a href="#ref-15">[15]</a></sup>, China increasingly used cyber attacks to balance its retaliation. Despite China's economic power, the US was able to place $200 billion of tarrifs on Chinese goods, while China could only levy $60 billion of tarrifs due to China buying less US goods<sup><a href="#ref-16">[16]</a></sup>. State-sponsored attacks which are difficult to attribute to governments with high confidence can form a legitimate negotiating position behind closed doors<sup><a href="#ref-17">[17]</a></sup>, the operating country may promise to 'crack down on cyber criminals' in return for a more favourable deal for example.
+
+In 2019 the United States 
 
 Cyber operations are not conducted within a vaccum, they may be single-goal missions or they may be one part of a strategy to achieve a broader goal. In [YEAR] a cyber operation, likely conducted by Israel physically destroyed [DISABLED?] rocket batteries [FACTS? SPELLING] in Iran, this single-mission use during active battlefield ...
 
@@ -57,7 +59,7 @@ Cyber operations are not conducted within a vaccum, they may be single-goal miss
 
 "We're seeing state and non-state actors alike operating in that 'sombre' zone below the threshold of war - unconstrained by previously accepted norms - using all tools in their armoury, and weaponising informaiton to catch us off guard to destabilise our societies and our support systems. If we're to respond, we must have strategic intergration across the five warfighting domains: land, sea, space and cyber." - Penny Mordaunt, Former United Kingdom Defense Secretary (2018-2019)
 
-Cyber warfare is increasingly used to exploit the "grey zone"; an area between cyber, military and civilian activities which would not reasonbly lead to war. While it often does include non-cyber actions, we will limit disucssion to cyber. These activities are conducted to further the interests of the operating country and often involve stealing, spying, disrupting or otherwise frustrating businesses or sectors of an economy. "Interests" is a broad and vauge term refering to anything from international alliances, national infrastructure to mundane and seemingly unimportant items such as salmon, potatoes or wine. "Frustrate" is an equal broad and vague term, refering to any negative impact an adversary can levy against a target. Reasons vary widly for conducting operations. Breifly, some observed reasons include: tit-for-tat punishment, in [YEAR] Russia hackers launched a cyber attack to punish Ukraine for removing Soviet era statues in what was percieved by Russia as an attempt to re-write history [REF].
+Cyber warfare is increasingly used to exploit the "grey zone"; an area between cyber, military and civilian activities which would not reasonbly lead to war. While it often does include non-cyber actions, we will limit disucssion to cyber. These activities are conducted to further the interests of the operating country and often involve stealing, spying, disrupting or otherwise frustrating businesses or sectors of an economy. "Interests" is a broad and vauge term refering to anything from international alliances, national infrastructure to mundane and seemingly unimportant items such as salmon, potatoes or wine. "Frustrate" is an equally broad and vague term, refering to any negative impact an adversary can levy against a target. Reasons vary widly for conducting operations. Breifly, some observed reasons include: tit-for-tat punishment, in [YEAR] Russia hackers launched a cyber attack to punish Ukraine for removing Soviet era statues in what was percieved by Russia as an attempt to re-write history [REF]. [MORE]
 
 We will discuss the how and why of hypothetical cyber attacks against the mundane salmon and unimportant potato markets in the next chapter 'Conducting Cyber Attacks'.
 
@@ -68,9 +70,9 @@ The home page lists the chapters which are to come:
 
 * **Conducting a Cyber Attack** discusses in more detail how and why nations conduct cyber attacks.
 * **Advanced Persistent Threats (APT)** provides a long and detailed list of known cyber actors and campaigns.
-* **Cyber Threatcasting** discusses techniques for predicting future challenges.
+* **Cyber Threatcasting & Futures Prediction** discusses techniques for predicting future challenges.
 * **Artificial Intelligence** will discuss scenarios, details and challenges relating to AI and machine learning.
-* **Nuclear Security and Cyber Warfare** will discuss scenarios and detail around the threat to nuclear security.
+* **Nuclear Security & Cyber Warfare** will discuss scenarios and detail around the threat to nuclear security.
 * **Computational Propoganda** will discuss the issues and challenges of propoganada in cyberspace.
 * **Cyber on the Battlefield** will discuss the intersection of cyber warfare and the modern battlefield.
 * **The Problem of Attribution** will discuss the specific problem of attribution.
