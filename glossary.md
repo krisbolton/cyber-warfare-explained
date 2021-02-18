@@ -136,7 +136,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A computer controlled by a threat actor which is used to send commands to systems compromised by <a href="#malware"><i>malware</i></a>. <a href="#botnet"><i>Botnets</i></a> will have one or more C&C servers.</p>
 
 <h5 id="communication-protocol">Communication Protocol</h5>
-<p>A formal set of rules that allow two or more tentities to exchange information. The rules define syntax, semantics, synchronization of communication and errors.</p>
+<p>A formal set of rules that allow two or more entities to exchange information. The rules define syntax, semantics, synchronization of communication and errors.</p>
 
 <h5>Cookie</h5>
 <p>A string of data sent from a website and stored on a user's computer by a web browser upon visiting the website. They are used for statistical purposes, collecting data for the web administrator to monitor and improve the user experience. They are also often used to enable certain functionality, such as 'remember me' to reduce the number of logins by users, among other uses.</p>
