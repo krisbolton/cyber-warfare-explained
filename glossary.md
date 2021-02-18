@@ -95,7 +95,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A loophole that allows access to a system through hidden means. Created by a programs developers or added by hackers for illicit purposes. See <a href="#vulnerability"><i>vulnerability</i></a> for unintentional system access.</p>
 
 <h5>Bare metal</h5>
-<p>The phrase is often used in two contexts; refering to layers of abstraction, or distinguishing between virtualisation and non-virtualisation. Software and many programming languages abstract away the underlying conplexity, "interacting with bare metal" refers to the increased complexity of programming with languages that operate at lower layers of abstraction (See C). Non-virtual servers ("dedicated servers") may be refered to as "bare metal".</p>
+<p>The phrase is often used in two contexts; refering to layers of abstraction, or distinguishing between virtualisation and non-virtualisation. Software and many programming languages abstract away the underlying conplexity, "interacting with bare metal" refers to the increased complexity of programming with languages that operate at lower layers of abstraction (See <a href="#c">C</a>). Non-virtual servers ("dedicated servers") may be refered to as "bare metal".</p>
 
 <h5 id="bit">Bit</h5>
 <p>The basic unit of computing. A binary digit representing one of two states, 1 or 0. 8 bits makes a <a href="#byte">byte</a>.</p>
