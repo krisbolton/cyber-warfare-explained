@@ -98,7 +98,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>The phrase is often used in two contexts; refering to layers of abstraction, or distinguishing between virtualisation and non-virtualisation. Software and many programming languages abstract away the underlying conplexity, "interacting with bare metal" refers to the increased complexity of programming with languages that operate at lower layers of abstraction (See C). Non-virtual servers ("dedicated servers") may be refered to as "bare metal".</p>
 
 <h5 id="bit">Bit</h5>
-<p>The basic unit of computing. A binary digit representing one of two states, 1 or 0.</p>
+<p>The basic unit of computing. A binary digit representing one of two states, 1 or 0. 8 bits makes a <a href="#byte">byte</a>.</p>
 
 <h5 id="botnet">Botnet</h5>
 <p>A number of internet-connected devices running one or more remotely-controlled systems. They are used to perform malicious activities, such as <a href="#ddos"><i>Distributed Denial of Service (DDoS)</i></a> or deliver spam.</p>
