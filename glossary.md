@@ -424,8 +424,6 @@ Router
 <!-- -->
 
 <h3 id="S">S</h3>
-<h5>SaaS</h5>
-
 <h5>Sandbox</h5>
 <p></p>
 
@@ -469,7 +467,7 @@ Router
 <p>A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted in the cloud. Examples, include Google Apps - Google Docs, Google Sheets, etc.</p>
 
 <h5>Spoofing</h5>
-<p></p>
+<p>The process of disguising a source of communication as another known, trusted communication source. For example, spoofing an IP address; making your IP address e.g. 1.1.1.1 appear to other as a trusted IP, e.g. a Google IP address: 172.217.169.78.</p>
 
 <h5>Spear phishing</h5>
 <p></p>
