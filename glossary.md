@@ -440,7 +440,7 @@ Router
 <p></p>
 
 <h5>Sniffing</h5>
-<p></p>
+<p>The process of monitoring and capturing data <i><a href="#packet">packets</a></i> within a computer network using software called a <i>packet sniffer</i>, or <i>packet analyzer</i>.</p>
 
 <h5>Social engineering</h5>
 <p></p>
