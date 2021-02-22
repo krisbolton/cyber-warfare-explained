@@ -477,9 +477,6 @@ Router
 <h5>Spyware</h5>
 <p><a href="#malware"><i>Malware</i></a> that passes information about a user’s activity to an external entity.</p>
 
-<h5>State-sponsor</h5>
-<p></p>
-
 <h5>Supply chain</h5>
 <p>The path of linked organisations, people, activities, information, and resources involved in supplying a product or service to a consumer (business or individual).</p>
 
