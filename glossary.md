@@ -428,7 +428,7 @@ Router
 <p></p>
 
 <h5>SCADA (Supervisory Control and Data Acquisition)</h5>
-<p></p>
+<p>A supervisory control and data acquisition (SCADA) system is a type of industrial network control system architecture; a computer network for controling and monitoring industrial processes. Such systems are differentiated from corporate and home computer networks which contain computers, databases and digital phone systems, where SCADA systems contain <i>programmable logic controllers (PLC)</i>, <i>proportional-intergral-derivative (PID)</i> controllers, which control physical systems (e.g. water valves).</p>
 
 <h5>Security perimiter</h5>
 <p></p>
