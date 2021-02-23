@@ -443,7 +443,7 @@ Router
 <p>The process of monitoring and capturing data <i><a href="#packet">packets</a></i> within a computer network using software called a <i>packet sniffer</i>, or <i>packet analyzer</i>.</p>
 
 <h5>Social engineering</h5>
-<p></p>
+<p>The psychological manipluation of people into performancing actions or divulging confidental informaiton to aid in the reconnisance stage of a cyber attack. For example, an attacker may contact a company pretending to be a customer to change a target accounts phone number, so the attacker can reset the password and gain access to the target account.</p>
 
 <h5 id="soft-ai">Soft AI</h5>
 <p></p>
