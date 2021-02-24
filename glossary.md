@@ -416,8 +416,8 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <h3 id="R">R</h3>
 
-Router
-
+<h5>Router</h5>
+<p>A networking device which forwards <i><a href="#packet">packets</a></i> between computer networks.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
