@@ -400,7 +400,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>Slang. See <a href=""><i>owned</i></a>.</p>
 
 <h5>Python</h5>
-<p></p>
+<p>A general purpose programming language, with a readable, human-friendly syntax. Particularly suited to prototyping ideas, and specific workflows such as data science (due to community created extensions).</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
