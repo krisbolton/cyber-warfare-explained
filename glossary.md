@@ -425,7 +425,7 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <h3 id="S">S</h3>
 <h5>Sandbox</h5>
-<p></p>
+<p>In a security context, a sandbox is a seperate environment in which to run suspicious software, preventing the release of malware onto a host system. In a general computing context, a sandbox is an environment in which to test code without fear of breaking a host system.</p>
 
 <h5>SCADA (Supervisory Control and Data Acquisition)</h5>
 <p>A supervisory control and data acquisition (SCADA) system is a type of industrial network control system architecture; a computer network for controling and monitoring industrial processes. Such systems are differentiated from corporate and home computer networks which contain computers, databases and digital phone systems, where SCADA systems contain <i>programmable logic controllers (PLC)</i>, <i>proportional-intergral-derivative (PID)</i> controllers, which control physical systems (e.g. water valves).</p>
