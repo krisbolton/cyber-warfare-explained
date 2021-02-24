@@ -245,8 +245,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="ip-address">IP address</h5>
 <p>An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. IP addresses identify the host or network interface and its location on the network.</p>
 
-<h5>Infrastructure-as-a-Service (IaaS)</h5>
-<p>A form of cloud service providing infrastructure such as computing resources, routing and scaling, among others. Services allow companies to create networks, gain computing power and entire software platforms at the click of a button, rather than expensive physical infrastrucutre and the associated design and deployment. IaaS is one of three as-a-serivce models, along with <a href=""><i>SaaS</i></a> and <a href=""><i>PaaS</i></a>. </p>
+<h5 id="iaas">Infrastructure-as-a-Service (IaaS)</h5>
+<p>A form of cloud service providing infrastructure such as computing resources, routing and scaling, among others. Services allow companies to create networks, gain computing power and entire software platforms at the click of a button, rather than expensive physical infrastrucutre and the associated design and deployment. IaaS is one of three as-a-serivce models, along with <a href="#saas"><i>SaaS</i></a> and <a href="#paas"><i>PaaS</i></a>. </p>
 
 <h5 id="iso">International Organization for Standardization (ISO)</h5>
 <p>An international standard-setting body composed of representatives from various national standards organizations. ISO is not an acronym, it is derived from the Greek isos, meaning equal, to make a unified short name between languages. For an example ISO standard, see <a href="#iso-27001"><i>ISO 27001</i></a>.</p>
@@ -390,8 +390,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="pivot">Pivot</h5>
 <p>A technqiue where an attacker uses one system to gain access to another.</p>
 
-<h5>Platform-as-a-Service (PaaS)</h5>
-<p></p>
+<h5 id="paas">Platform-as-a-Service (PaaS)</h5>
+<p>Platform as a service provides a scaffold for developers to host and manage applications without the complexity of building and maintaining infrastructure. PaaS abstracts away the complexity of infrastructure. Also see <a href="iaas"><i>Infrastructure-as-a-Service</i></a> and <a href="saas"><i>Software-as-a-Service</i></a>.</p>
 
 <h5 id="protocol">Protocol</h5>
 <p>See <a href="#communication-protocol">communication protocol<i></i></a>.</p>
@@ -463,8 +463,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="sigint-seniors">SIGINT Seniors</h5>
 <p>An international alliance of intelligence agencies collaberating on global security.</p>
 
-<h5>Software-as-a-Service (SaaS)</h5>
-<p>A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted in the cloud. Examples, include Google Apps - Google Docs, Google Sheets, etc.</p>
+<h5 id="saas">Software-as-a-Service (SaaS)</h5>
+<p>A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted in the cloud. Examples, include Google Apps - Google Docs, Google Sheets, etc. Also see <a href="#iaas">Infrastructure-as-a-Service</a> and <a href="#paas">Platform-as-a-Service</a>.</p>
 
 <h5>Spoofing</h5>
 <p>The process of disguising a source of communication as another known, trusted communication source. For example, spoofing an IP address; making your IP address e.g. 1.1.1.1 appear to other as a trusted IP, e.g. a Google IP address: 172.217.169.78.</p>
