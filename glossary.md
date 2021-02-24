@@ -381,8 +381,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <!-- -->
 
 <h3 id="P">P</h3>
-<h5>Packet</h5>
-<p></p>
+<h5 id="packet">Packet</h5>
+<p>A network packet, often referred to as a packet, is a unit of data transmitted within a network. The packet contains control information and user data. For example, the IP address of the source and destination device.</p>
 
 <h5 id="petabyte">Petabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Peta" indicates multiplication by the fifth power of 1000 or 10<sup>15</sup>. A petabyte (PB) is a measure of storage capacity equal to approximately 1,000 terabytes (TB), a million gigabytes (GB) or a billion megabytes (MB).</p>
