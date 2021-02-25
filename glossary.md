@@ -479,7 +479,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>The path of linked organisations, people, activities, information, and resources involved in supplying a product or service to a consumer (business or individual).</p>
 
 <h5>Switch</h5>
-<p></p>
+<p>A network switch is a peice of hardware which connects multiple devices on a computer network.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
