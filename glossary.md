@@ -100,6 +100,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="bit">Bit</h5>
 <p>The basic unit of computing. A binary digit representing one of two states, 1 or 0. 8 bits makes a <a href="#byte">byte</a>.</p>
 
+<h5 id="black-hat">Black hat</h5>
+<p>A <i>black hat hacker</i> is a human threat to a network whose motivation is profit or malice. This is opposed to a <i><a href="#white-hat">white hat hacker</a></i>. The term is a reference to Western (cowboy) movies in which the "good guys" wear white cowboy hats and the "bad guys" wear black cowboy hats, as an indicator for the audience. Related: <i><a href="#hacker">hacker</a></i>.</p>
+
 <h5 id="botnet">Botnet</h5>
 <p>A number of internet-connected devices running one or more remotely-controlled systems. They are used to perform malicious activities, such as <a href="#ddos"><i>Distributed Denial of Service (DDoS)</i></a> or deliver spam.</p>
 
