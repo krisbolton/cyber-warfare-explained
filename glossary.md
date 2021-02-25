@@ -580,6 +580,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Website</h5>
 <p>A collection of web pages and related content that is identified by a domain name and published on at least one web <a href="#server"><i>server</i></a>.</p>
 
+<h5 id="white-hat">White hat</h5>
+<p>A <i>white hat hacker</i> is a human actor whose motivation is responsible disclosure of security issues. This is opposed to a <i><a href="#black-hat">black hat hacker</a></i>. The term is a reference to Western (cowboy) movies in which the "good guys" wear white cowboy hats and the "bad guys" wear black cowboy hats, as an indicator for the audience. Related: <i><a href="#hacker">hacker</a></i>.</p>
 
 <h5>WHOIS</h5>
 <p>A query and response protocol for retrieving the registered users of an internet resource, such as a domain name.</p>
