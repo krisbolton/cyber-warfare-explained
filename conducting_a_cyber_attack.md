@@ -49,7 +49,7 @@ stockpiling zero days
 
 Attack orders are unlikely to come from Presidents, Prime Ministers or Chancellors, except in times of crisis (e.g. US-Iran drone retaliation). Cyber warfare is a day-to-day activity for national Militaries, Government organisations and state-affiliated organisations, such as Unit 61398 of the People Liberation Amry (PLA), Cyber Command (US), Strategic Command (UK)(formerly Joint Forces Command), or a private-state collaberation as seen with [NAME].
 
-'Advanced' threat actors follow a similar attack method to typical <a href="">"black hat"</a> hackers, the major differences are the cyclical nature of the attack, the level of skill (advanced) which is due to the size of the organisation behind the attack and the sustained motivation (persistence) of the attackers. Hence the acrynm often used to describe state and state-sponsored actors, Advanced Persistent Threat (APT).
+'Advanced' threat actors follow a similar attack method to typical <a href="glossary/#black-hat" target="_blank">"black hat"</a> hackers, the major differences are the cyclical nature of the attack, the level of skill (advanced) which is due to the size of the organisation behind the attack and the sustained motivation (persistence) of the attackers. Hence the acrynm often used to describe state and state-sponsored actors, Advanced Persistent Threat (APT).
 
 [IMAGE]
 
