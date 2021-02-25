@@ -197,6 +197,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <!-- -->
 
 <h3 id="F">F</h3>
+<h5 id="firewall">Firewall</h5>
+<p>A firewall is a network security system which monitors and controls traffic passing through the edge of a computer network based on predetermined security rules (See <i><a href="#security-perimeter">security perimeter</a></i>). So called "<i>next generation firewalls</i>" use machine learning and heuristics to prevent threats which are not part of predefined security rules.</p>
+
 <h5>Firmware</h5>
 <p>Software that provides the low-level control for a device's specific hardware.</p>
 
