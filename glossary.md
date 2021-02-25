@@ -505,7 +505,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p></p>
 
 <h5>Trojan</h5>
-<p></p>
+<p>A type of <i><a href="#malware">malware</a></i> which hides its true function from users.</p>
 
 <h5>Two-factor authentication</h5>
 <p>Obtaining evidence of identity by two independent means, such via password and an authenticator cellular/mobile phone application.</p>
