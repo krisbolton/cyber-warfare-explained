@@ -505,7 +505,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Tera" indicates multiplication by the fourth power of 1000 or 10<sup>12</sup>. A terabyte (TB) is a measure of storage capacity equal to approximately 1,000 gigabytes (GB), a million megabytes (MB) or a billion kilobytes (KB).</p>
 
 <h5>Tit-for-tat</h5>
-<p></p>
+<p><i>Tit-for-tat</i> is an English phrase meaning "equivilent retaliation"; as one side attacks, so does the other, with a counter attack of equivilent magnitude. In a sentence: "Country A and Country B, engaged in a tit-for-tat exchange in cyber-space on Monday morning."</p>
 
 <h5>Transport Layer</h5>
 <p></p>
