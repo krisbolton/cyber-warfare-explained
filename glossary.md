@@ -475,8 +475,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Spoofing</h5>
 <p>The process of disguising a source of communication as another known, trusted communication source. For example, spoofing an IP address; making your IP address e.g. 1.1.1.1 appear to other as a trusted IP, e.g. a Google IP address: 172.217.169.78.</p>
 
-<h5>Spear phishing</h5>
-<p></p>
+<h5 id="spear-phishing">Spear phishing</h5>
+<p>Spear phishing is a targeted type of phishing, involving the creation of bespoke emails sent to specific victims. This is in contrast to phishing which is typically untargeted and emails are not made individually. Spear phishing is harder to discover automatically, as they are written by humans not machine. The technique has a much higher rate of success.</p>
 
 <h5>Spyware</h5>
 <p><a href="#malware"><i>Malware</i></a> that passes information about a user’s activity to an external entity.</p>
