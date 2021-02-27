@@ -393,6 +393,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="petabyte">Petabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Peta" indicates multiplication by the fifth power of 1000 or 10<sup>15</sup>. A petabyte (PB) is a measure of storage capacity equal to approximately 1,000 terabytes (TB), a million gigabytes (GB) or a billion megabytes (MB).</p>
 
+<h5 id="phishing">Phishing</h5>
+<p>Phishing is a type of <i><a href="#social-engineering">social engineering</a></i> attack designed to obtain sensitive and valuable information, such as passwords and financial details through deception. Most commonly, this is conducted through fradulent emails. See <i><a href="#spear-phishing">spear phishing</a></i> for targeted phishing.</p>
+
 <h5 id="pivot">Pivot</h5>
 <p>A technqiue where an attacker uses one system to gain access to another.</p>
 
@@ -448,7 +451,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Sniffing</h5>
 <p>The process of monitoring and capturing data <i><a href="#packet">packets</a></i> within a computer network using software called a <i>packet sniffer</i>, or <i>packet analyzer</i>.</p>
 
-<h5>Social engineering</h5>
+<h5 id="social-engineering">Social engineering</h5>
 <p>The psychological manipluation of people into performancing actions or divulging confidental informaiton to aid in the reconnisance stage of a cyber attack. For example, an attacker may contact a company pretending to be a customer to change a target accounts phone number, so the attacker can reset the password and gain access to the target account.</p>
 
 <h5 id="soft-ai">Soft AI</h5>
@@ -476,7 +479,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>The process of disguising a source of communication as another known, trusted communication source. For example, spoofing an IP address; making your IP address e.g. 1.1.1.1 appear to other as a trusted IP, e.g. a Google IP address: 172.217.169.78.</p>
 
 <h5 id="spear-phishing">Spear phishing</h5>
-<p>Spear phishing is a targeted type of phishing, involving the creation of bespoke emails sent to specific victims. This is in contrast to phishing which is typically untargeted and emails are not made individually. Spear phishing is harder to discover automatically, as they are written by humans not machine. The technique has a much higher rate of success.</p>
+<p>Spear phishing is a targeted type of <i><a href="#phishing">phishing</a></i>, involving the creation of bespoke communication (e.g. email, instant messaging, etc) sent to specific victims. This is in contrast to phishing which is typically untargeted and communications are not made individually. Spear phishing is harder to discover automatically, as they are written by humans not machine. The technique has a much higher rate of success.</p>
 
 <h5>Spyware</h5>
 <p><a href="#malware"><i>Malware</i></a> that passes information about a user’s activity to an external entity.</p>
