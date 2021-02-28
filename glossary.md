@@ -361,7 +361,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>One-way function</h5>
 <p>A function that is hard to invert. For example, a cryptographic <a href="#hash-function"><i>hash function</i></a> is one-way because it is easy (fast) to compute, but difficult (extremely slow / essentially impossible) to reverse without the key, creating a method to secure data.</p>
 
-<h5>OSI model</h5>
+<h5 id="osi-model">OSI model</h5>
 <p>The Open System Interconnection (OSI) is an internatinal <a href="#iso"><i>ISO</i></a> <a href="#technical-standard"><i>technical standard</i></a> which defines a framework of seven layers used for computer networking referred to as the OSI model.</p>
 
 <h5>OpenBSD</h5>
