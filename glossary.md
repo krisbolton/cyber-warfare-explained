@@ -595,8 +595,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5>Wired Equivilent Priacy (WEP)</h5>
 <p>An encryption <a href="#communication-protocol"><i>protocol</i></a> for wireless local area networks defined in the <a href="#ieee"><i>IEEE</i></a> <a href="#technical-standard"><i>standard</i></a> <a href="#802.11"><i>802.11b</i></a>.</p>
 
-Wireless hotspot
-
+<h5>Wireless hotspot</h5>
+<p>A physical location (or feature on a device) which allows access to the internet for devices which connect to it.</p>
 
 <h5 id="www">World Wide Web (WWW)</h5>
 <p>An collection of documents and other resources which are accessible over the <a href="#internet"><i>internet</i></a> using a <a href="#uri"><i>URI (Universal Resource Identifier)</i></a>. Also see <a href="#url"><i>URL (Universal Resource Locator)</i></a> and <a href="#dns"><i>DNS (Domain Name Service)</i></a> for related definitions and concepts.</p>
