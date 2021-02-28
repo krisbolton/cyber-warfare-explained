@@ -511,7 +511,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p><i>Tit-for-tat</i> is an English phrase meaning "equivilent retaliation"; as one side attacks, so does the other, with a counter attack of equivilent magnitude. In a sentence: "Country A and Country B, engaged in a tit-for-tat exchange in cyber-space on Monday morning."</p>
 
 <h5>Transport Layer</h5>
-<p></p>
+<p>In computer networking, the transport layer refers to the conceptual <i><a href="#osi-model">OSI model</a></i> layer responsible for host-to-host protocols. For example, <i><a href="#ip-address">IP addresses</a></i> and the associated protocols. See <i><a href="#ip-suite">Internet Protocol Suite</a></i>.</p>
 
 <h5>Trojan</h5>
 <p>A type of <i><a href="#malware">malware</a></i> which hides its true function from users.</p>
