@@ -243,7 +243,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A professional organisation for electrical and electronics engineers. IEEE publishes the largest amount of research literature relating to electronic and electrical engineering and computer science in the world in its journals.</p>
 
 <h5 id="ip">Internet Protocol</h5>
-<p>The principal <a href="#communication-protocol"><i>communications protocol</i></a> in the <a href="#ip-suite"><i>Internet protocol suite</i></a> for relaying data across network boundaries.</p>
+<p>The principal <a href="#communication-protocol"><i>communications protocol</i></a> in the <a href="#ip-suite"><i>Internet protocol suite</i></a> for relaying data across network boundaries. The Internet Protocol is the partner protocol to the <i><a href="#tcp">Transmission Control Protocol</a></i> (TCP).</p>
 
 <h5 id="ip-suite">Internet Protocol Suite</h5>
 <p>The conceptual model and set of <a href="#communication-protocol"><i>communications protocols</i></a> used in the <a href="#internet"><i>internet</i></a> and similar computer networks. Also known as "TCP/IP" due to the foundational protocols in the suite; <a href="tcp"><i>Transmission Control Protocol (TCP)</i></a> and <a href="#ip"><i>Internet Protocol (IP)</i></a>.</p>
