@@ -495,8 +495,8 @@ description: A list of words and their definitions relating to cyber warfare.
 <!-- -->
 
 <h3 id="T">T</h3>
-<h5>TCP</h5>
-<p></p>
+<h5 id="tcp">TCP</h5>
+<p>The Transmission Control Protocol (TCP) is a <a href="#communication-protocol"><i>communications protocol</i></a> which forms part of the <a href="#ip-suite"><i>Internet protocol suite</i></a>. TCP is designed to mitigate issues within <i><a href="#packet">packet</a></i>-based networking (e.g. lost packets, packets arriving out of order, etc.), ensuring packet delivery and reliability. TCP is the partner protocol to the <i><a href="#ip">Internet Protocol</a></i>, togther they form the <a href="#ip-suite"><i>Internet Protocol suite</i></a>.</p>
 
 <h5>TCP/IP</h5>
 <p>See <a href="#ip-suite"><i>Internet Protocol suite</i></a>.</p>
