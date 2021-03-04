@@ -446,7 +446,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A computer program or machine that provides functionality for other <a href="#client"><i>client</i></a> programs or devices. For example, web servers host website which are accessed by web browsers (the client).</p>
 
 <h5>SIEM (Security Information and Event Management)</h5>
-<p></p>
+<p>Security Information and Event Management software provides real-time analysis of security events occuring within a network.</p>
 
 <h5>Sniffing</h5>
 <p>The process of monitoring and capturing data <i><a href="#packet">packets</a></i> within a computer network using software called a <i>packet sniffer</i>, or <i>packet analyzer</i>.</p>
