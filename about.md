@@ -36,11 +36,12 @@ In return for your patronage you will get access to content previews, discussion
 
 # Road Map
 
-There are currently three complete chapters: Introduction to Cyber Warfare, Conducting a Cyber Attack, and Advanced Persistent Threat (APT).
+There are currently two complete chapters: Introduction to Cyber Warfare and Conducting a Cyber Attack.
 
 Approximately nine chapters remain:
 
 <ol>
+    <li>Advanced Persistent Threats (APT)</li>
     <li>Cyber Threatcasting</li>
     <li>Nuclear Security and Cyber Warfare</li>
     <li>Computational Propoganda</li>
