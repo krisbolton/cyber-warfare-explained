@@ -11,8 +11,8 @@ doks:
               item_url: '/about'
             - item_name: Glossary
               item_url: '/glossary'
-            - item_name: Articles
-              item_url: '/articles'
+            - item_name: Articles & Briefs
+              item_url: '/articles-and-briefs'
             - item_name: Patreon
               item_url: '#'
     footer:
