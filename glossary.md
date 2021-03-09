@@ -369,22 +369,22 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>The Open System Interconnection (OSI) is an internatinal <a href="#iso"><i>ISO</i></a> <a href="#technical-standard"><i>technical standard</i></a> which defines a framework of seven layers used for computer networking referred to as the OSI model.</p>
 
 <h5>OpenBSD</h5>
-<p>A security-focused, free and open-source, <a href="#unix"><i>Unix</i></a>-like operating system based on the Berkeley Software Distribution (BSD). Favoured for its security focused design.</p>
+<p>A security-focused, free and open-source, <a href="#unix"><i>Unix</i></a>-like operating system based on the Berkeley Software Distribution (BSD). Favoured for its security-focused design.</p>
 
 <h5>Open-source software</h5>
-<p>Software in which source code is released under a license in which grants users the rights to study, change, and distribute the software to anyone and for any purpose. Such software is often developed in a collaborative public manner.</p>
+<p>Software in which source code is released under a license which grants users the rights to study, change, and distribute the software to anyone and for any purpose. Such software is often developed in a collaborative public manner.</p>
 
 <h5>Open-source intelligence (OSINT)</h5>
 <p>Data collected from publicly available sources to be used in an intelligence context. For example, Twitter, Facebook and Instagram.</p>
 
 <h5>Open Web Application Security Project (OWASP)</h5>
-<p>An Internet community focused on understanding web technologies and exploitations. Sometimes refers specifically to the "OWASP Top Ten", a document listing the top 10 most common <a href="#web-application"><i>web application</i></a> <a href="#vulnerability"><i>vulnerabilities</i></a>.</p>
+<p>An Internet community-created project on understanding web technologies and exploitations. Sometimes refers specifically to the "OWASP Top Ten", a document listing the top 10 most common <a href="#web-application"><i>web application</i></a> <a href="#vulnerability"><i>vulnerabilities</i></a>.</p>
 
 <h5>Operating system (OS)</h5>
 <p>The software that enables your computer or mobile device to operate. Distinct from other software installed on a device.</p>
 
 <h5 id="owned">Owned</h5>
-<p>Slang. Describing when a computer has been taken over by a malicious <a href="#actor"><i>actor</i></a>.</p>
+<p>Slang. The term describes when a computer has been taken over by a malicious <a href="#actor"><i>actor</i></a>.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
@@ -392,7 +392,7 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <h3 id="P">P</h3>
 <h5 id="packet">Packet</h5>
-<p>A network packet, often referred to as a packet, is a unit of data transmitted within a network. The packet contains control information and user data. For example, the IP address of the source and destination device.</p>
+<p>A network packet, often simply referred to as a <i>packet</i>, is a unit of data transmitted within a network. The packet contains control information and user data. For example, the IP address of the source and destination device.</p>
 
 <h5 id="petabyte">Petabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Peta" indicates multiplication by the fifth power of 1000 or 10<sup>15</sup>. A petabyte (PB) is a measure of storage capacity equal to approximately 1,000 terabytes (TB), a million gigabytes (GB) or a billion megabytes (MB).</p>
@@ -438,10 +438,10 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <h3 id="S">S</h3>
 <h5>Sandbox</h5>
-<p>In a security context, a sandbox is a seperate environment in which to run suspicious software, preventing the release of malware onto a host system. In a general computing context, a sandbox is an environment in which to test code without fear of breaking a host system.</p>
+<p>In a security context, a <i>sandbox</i> is a seperate environment in which to run suspicious software, preventing the release of malware onto a host system. In a general computing context, a sandbox is an environment in which to test code without fear of breaking a host system.</p>
 
 <h5>SCADA (Supervisory Control and Data Acquisition)</h5>
-<p>A supervisory control and data acquisition (SCADA) system is a type of industrial network control system architecture; a computer network for controling and monitoring industrial processes. Such systems are differentiated from corporate and home computer networks which contain computers, databases and digital phone systems, where SCADA systems contain <i>programmable logic controllers (PLC)</i>, <i>proportional-intergral-derivative (PID)</i> controllers, which control physical systems (e.g. water valves).</p>
+<p>A <i>supervisory control and data acquisition</i> (SCADA) system is a type of industrial network control system architecture; a computer network for controling and monitoring industrial processes. Such systems are differentiated from corporate and home computer networks which contain computers, databases and digital phone systems, where SCADA systems contain <i>programmable logic controllers (PLC)</i>, <i>proportional-intergral-derivative (PID)</i> controllers, which control physical systems (e.g. water valves).</p>
 
 <h5 id="security-perimeter">Security perimeter</h5>
 <p>The security perimeter is a conceptual barrier at the edge of a computer network where security controls start, for example: <i><a href="#firewall">firewalls</a></i>. The concept of perimeter security has come under increased discussion in recent years, as businesses move away from traditional infrastructure to cloud-based approaches such as <i><a href="#iaas">Infrastructure-as-a-Service</a></i> and <i><a href="#paas">Platform-as-a-Service</a></i>.</p>
@@ -492,7 +492,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>The path of linked organisations, people, activities, information, and resources involved in supplying a product or service to a consumer (business or individual).</p>
 
 <h5>Switch</h5>
-<p>A network switch is a peice of hardware which connects multiple devices on a computer network.</p>
+<p>A network switch, often referred to simply as a <i>switch</i>, is a peice of hardware which connects multiple devices on a computer network.</p>
 
 <a href="#top" class="btn--small btn--rounded">Back to Top</a>
 
