@@ -28,7 +28,7 @@ grid_navigation:
       excerpt: A comprehensive list of known national cyber actors by nation.
       cta: Read now
       status: nav-grid__item--inactive
-      url: '/advanced_persistent_threats_APT'
+      url: '#'
     - title: Cyber Threatcasting & Futures Prediction
       excerpt: Chapter to come.
       cta: Read now
