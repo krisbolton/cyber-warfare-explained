@@ -10,7 +10,7 @@ description: A list of words and their definitions relating to cyber warfare.
 
 ---
 
-<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this.</p>
+<p id="top">This glossary attempts to represent a complete list of cyber security and computer science related words and terms and their definitions in the context of cyber warefare. The glossary does not include threat actor names, see the <a href="/advanced_persistent_threats_APT">Advanced Persistent Threat</a> chapter for this (not yet complete).</p>
 
 <p><code>ctrl + f</code> can be used to find specific words quickly.</p>
 
