@@ -78,7 +78,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A threat actor, typically a nation state or <a href="#state-sponsor"><i>state-sponsored</i></a> group, which gains unauthorized access to a computer network and remains undetected for an extended period. The tools used (often <a href="#zero-day"><i>zero-days</i></a>) and scale of resources they have access to indicates the "advanced" nature.</p>
 
 <h5 id="artificial-intelligence">Artificial Intelligence (AI)</h5>
-<p>The theory and development of computer systems able to perform tasks normally requiring human intelligence. The term is widely misused and misunderstood. There are two types of AI, <a href="#soft-ai"><i>soft AI</i></a> and <a href="#hard-ai"><i>hard AI</i></a>.</p>
+<p>The theory and development of computer systems able to perform tasks normally requiring human intelligence. The term is widely misused and misunderstood. There are two types of AI; <a href="#narrow-ai"><i>narrow AI</i></a> and <a href="#hard-ai"><i>hard AI</i></a>.</p>
 
 <h5 id="assembly">Assembly language</h5>
 <p>A <a href="#low-level"><i>"low-level"</i></a> programming language designed for a specific processor architecture. May also be called "assembler". See <a href="#abstraction"><i>abstraction</i></a> for more.</p>
@@ -344,6 +344,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <!-- -->
 
 <h3 id="N">N</h3>
+<h5 id="narrow-ai">Narrow AI</h5>
+<p>The term "narrow AI" refers to AI systems whose successes are limited to performing specific actions; their "intelligence" is not generalised.</p>
+
 <h5 id="nato">NATO</h5>
 <p>The North Atlantic Treaty Organization is an intergovernmental alliance of 30 nations designed to foster military co-operation and enshrine collective defense to deter large-scale wars equivilant to the two Word Wars. NATO continues to add nation members, and has a number of partnership status designations, including 'Partners for Peace' and 'Global Partners', among others, who work towards specific aims through cooperation.</p>
 
