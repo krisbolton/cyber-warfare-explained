@@ -223,7 +223,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <!-- -->
 
 <h3 id="H">H</h3>
-<h5>Hacker</h5>
+<h5 id="hacker">Hacker</h5>
 <p>A human threat to a network. Hackers do not always have malicious intent (though, they are still a threat). Other individuals in society may refer to themselves as hackers. For example: cyber security professionals, computer programmers and makers (3D printing etc).</p>
 
 <h5 id="hard-ai">Hard AI</h5>
