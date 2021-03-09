@@ -227,7 +227,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>A human threat to a network. Hackers do not always have malicious intent (though, they are still a threat). Other individuals in society may refer to themselves as hackers. For example: cyber security professionals, computer programmers and makers (3D printing etc).</p>
 
 <h5 id="hard-ai">Hard AI</h5>
-<p>The term "hard AI", also called "<i>strong AI</i>", "<i>full AI</i>" and "<i>artifical general intelligence</i>" (AGI) refers to hypothetical <a href="#artificial-intelligence">AI</a> systems which are capable of understanding and learning any number of task a human can. This is in contrast to "<a href="#narrow-ai"><i>narrow AI</i></a>" which only perform limited actions and are not capable of general intelligence.</p>
+<p>The term "<i>hard AI</i>", also called "<i>strong AI</i>", "<i>full AI</i>" and "<i>artifical general intelligence</i>" (AGI) refers to hypothetical <a href="#artificial-intelligence">AI</a> systems which are capable of understanding and learning any number of task a human can. This is in contrast to "<a href="#narrow-ai"><i>narrow AI</i></a>" which only perform limited actions and are not capable of general intelligence.</p>
 
 <h5 id="hash-function">Hash function</h5>
 <p>An algorithm performed on data (such as a file) produce a unique number called a hash. Hashes can be used to compare files, for example to determine if a file is the same <a href="#virus-signiture"><i>signiture</i></a> as a known malicious file.</p>
@@ -346,7 +346,7 @@ description: A list of words and their definitions relating to cyber warfare.
 
 <h3 id="N">N</h3>
 <h5 id="narrow-ai">Narrow AI</h5>
-<p>The term "narrow AI" refers to <a href="#artificial-intelligence">AI</a> systems whose successes are limited to performing specific actions; their "intelligence" is not generalised. Also see <a href="#hard-ai">hard AI</a>.</p>
+<p>The term "<i>narrow AI</i>" refers to <a href="#artificial-intelligence">AI</a> systems whose successes are limited to performing specific actions; their "intelligence" is not generalised. Also see <a href="#hard-ai">hard AI</a>.</p>
 
 <h5 id="nato">NATO</h5>
 <p>The North Atlantic Treaty Organization is an intergovernmental alliance of 30 nations designed to foster military co-operation and enshrine collective defense to deter large-scale wars equivilant to the two Word Wars. NATO continues to add nation members, and has a number of partnership status designations, including 'Partners for Peace' and 'Global Partners', among others, who work towards specific aims through cooperation.</p>
