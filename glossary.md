@@ -190,7 +190,6 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="exabyte">Exabyte</h5>
 <p>A multiple of the unit <a href="#byte"><i>byte</i></a>. "Exa" indicates multiplication by the sixth power of 1000 or 10<sup>18</sup>. An extabyte (EB) is a measure of storage capacity equal to approximately 1,000 petabytes (PB), a million terabytes (TB) or a billion gigabytes (GB).</p>
 
-
 <h5>Exploit</h5>
 <p>A piece of software or a sequence of commands that takes advantage of a <a href="#vulnerability"><i>vulnerability</i></a> to cause unintended or unanticipated behavior to occur in computer software or hardware.</p>
 
