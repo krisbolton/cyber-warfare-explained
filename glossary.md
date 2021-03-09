@@ -455,7 +455,7 @@ description: A list of words and their definitions relating to cyber warfare.
 <p>The psychological manipluation of people into performancing actions or divulging confidental informaiton to aid in the reconnisance stage of a cyber attack. For example, an attacker may contact a company pretending to be a customer to change a target accounts phone number, so the attacker can reset the password and gain access to the target account.</p>
 
 <h5 id="soft-ai">Soft AI</h5>
-<p></p>
+<p>See <a href="#narrow-ai"><i>Narrow AI</i></a>.</p>
 
 <h5 id="standard">Standard</h5>
 <p>See <a href="#technical-standard"><i>technical standard</i></a>.</p>
