@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Cyber Warfare Today
-description: Dive into the hidden world of cyber warfare.
+title: Cyber War Explained
+description: Dive into the hidden world of cyber warfare without hyperbole.
 
 buttons:
     - content: Start with the Introduction
