@@ -26,9 +26,9 @@ This work does not support, undermine or promote any specific political ideology
 
 In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I hold an MSc in Cyber Security from Wolverhampton Cyber Research Institute (WCRI), where I focused on nation-state cyber threats and the use of artificial intelligence to predict threat movement within networks. I have a technical background in Computer Science (BSc). You can find me @KrisBolton on Twitter or <a href="mailto:cyberwarfaretoday@gmail.com">contact me via email</a>.
 
-# Patreon and Perks
+# Support
 
-This project is an on-going research effort, supported via Patreon. Support allows me to dedicate more time and resources to its completion. If at any point you find yourself learning something new or find the content particularly interesting, please do consider becoming a Patron, even if you've never Patreon'd before.
+This project is an on-going research effort, supported via GitHub Sponsors. Sponsorship allows me to dedicate more time and resources to the completion and improvement of the project. If at any point you find yourself learning something new or find the content particularly interesting, please do consider becoming a sponsor.
 
 In return for your patronage you will get access to content previews, discussions, Q&A and vote on which content comes next. You will gain access to all previous discussions and Q&A as well.
 
