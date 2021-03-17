@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Advanced Persistent Threats
-description: A complete list of known national cyber actors and their campaigns.
+description: A list of well-known national cyber actors and their campaigns by nation.
 
 # Micro navigation
 micro_nav: true
