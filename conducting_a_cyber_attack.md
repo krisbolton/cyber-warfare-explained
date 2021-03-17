@@ -16,9 +16,6 @@ page_nav:
     prev:
         content: Previous Chapter
         url: '/introduction'
-    next:
-        content: Next Chapter
-        url: '/advanced_persistent_threats_APT'
 ---
 
 # Chapter Introduction
