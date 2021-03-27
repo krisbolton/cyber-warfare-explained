@@ -71,6 +71,9 @@ description: A list of words and their definitions relating to cyber warfare.
 <h5 id="abstraction">Abstraction</h5>
 <p>The act of representing essential features without including the background details or explanations. For example, all computer programs ultimately store and manipulate data using 1s and 0s (<a href="#machine-code"><i>machine code</i></a>), this complexity is removed - or abstracted away - by <a href="#assembly-language"><i>assembly lanuage</i></a>. Turning a very long string of binary digits into a more human-readable instruction, such as <code>mov</code> (move). This is still complex and unweidly, so programming languages such as <a href="#c-language"><i>C</i></a> abstract and build on these instructions. Modern programming languages (e.g. Java, Python, C#) go furhter still, abstracting away the underlying mechanics with easy to use functions  and closer-to-English syntax.</p>
 
+<h5 id="academic-database">Academic Database</h5>
+<p>An academic database, also refered to as an academic search engine, is a repository of academic literatures with a search facility. Such databases contain open source and paid literature, such as journal articles and magazine articles from recognised academic journals. Popular academic databases in computer science include; ACM Digital Library, IEEE Xplore, Science Direct, Elsevier and arXiv.org.</p>
+
 <h5 id="actor">Actor</h5>
 <p>Also called threat actor or malicious actor. An entity that is responsible for an event or incident that impacts, or has the potential to impact, the safety or security of another entity or system. Can be an individual or group.</p>
 
