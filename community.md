@@ -10,15 +10,15 @@ description: Get involved in the community and support cyber warfare explained.
 
 ---
 
-## GitHub Sponsors
+## Become a Sponsor
 
-Cyber War Explained aims to improve understanding of cyber warfare, by exploring recent history and explaining tactics, techniques and procedures of threat actors, among other things, while avoiding the usual hyperbole and misrepresentation of a complex subject. I can do this with the help of readers like you.
+Through GitHub Sponsors you can support the development and improvement of Cyber War Explained. My aim is to improve understanding of cyber warfare, by exploring recent history and explaining tactics, techniques and procedures of threat actors, among other things, while avoiding the usual hyperbole and misrepresentation of a complex subject. I can do this with the help of readers like you. <a href="https://github.com/sponsors/krisbolton" target="_blank">Become a sponsor today</a>.
 
-Research, academic books and referencing are expensive and time-consuming. I would like to add animation, interactive visuals and graphics to better explain concepts and historical attacks. Eventually, as more theoretical material is complete, I will use my technical background to create more technical content, for example walkthroughs of attack techniques used in historical attacks. 
+Research, academic books and referencing are expensive and time-consuming. I would like to add animation, interactive visuals and graphics to better explain concepts and historical attacks. Eventually, as more theoretical material is complete, I will use my technical background to create more technical content, for example walkthroughs of attack techniques used in historical attacks, designed for anyone to understand. 
 
-Cyber War Explained is add-free, privacy-focused and uses technologies which ensure the user expeirence is excellent; non-tracking privacy-first analytics (Plausible,io), Content Delivery Network (CND) and more, in addition to the effort of the creator. At a minimum your sponsorship helps pay the bills. As time goes by I hope your combined sponsorship allows me to dedicate more time to the project and make Cyber War Explained an exceptional resource.
+Sponsorship starts at <a href="https://github.com/sponsors/krisbolton" target="_blank">$5/mo</a>. Sponsors get accesss to a private Discord for discussion, content previews, Q&A and to vote on which content comes next. You will gain access to all previous discussions and Q&A.
 
-Sponsorship starts at $5/mo. Sponsors get accesss to a private Discord for discussion, content previews, Q&A and to vote on which content comes next. You will gain access to all previous discussions and Q&A.
+In addition to individual sponsor tiers, two 'gold sponsor' and one 'platinum sponsor' position exist, designed for businesses (also open to individuals or groups). See the <a href="https://github.com/sponsors/krisbolton" target="_blank">GitHub Sponsor</a> page for more detail. <a href="https://cyberwarexplained.com/sponsor-exclusions" target="_blank">Exclusions and terms apply</a>, neutrality is important.
 
 ## Online Communities
 
@@ -38,7 +38,7 @@ The subreddit <a href="https://www.reddit.com/r/netsec/" target="_blank">/r/nets
 
 ## People to Follow on Twitter
 
-Twitter is a great news aggregator. If you follow the right people you hear about news days (even weeks) ahead of others, academics and professionals openly discuss subjects and provide analysis. Here is a short list of who to follow, these individuals cover information security, international relations and national security. In no particular order...
+Twitter is a great news aggregator. If you follow the right people you hear about news days (even weeks) ahead of others, academics and professionals openly discuss subjects and provide analysis. Here is a short list of who to follow, these institutions and individuals cover information security, international relations and national security. In no particular order...
 
 #### Institutions
 
