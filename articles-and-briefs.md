@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Articles & Briefs
-description: Articles and briefs discussing topical issues and subjects of interest relating to cyber warfare.
+description: Articles and briefs discussing topical issues and subjects of interest.
 
 ---
 
