@@ -26,7 +26,7 @@ Get involved in the discussion!
 
 ### Discord
 
-The sponsor-only discord provides a commuity centre for discussion, news, Q&A and analysis.
+The sponsor-only discord provides a commuity centre for discussion, news and analysis.
 
 ### Twitter
 
