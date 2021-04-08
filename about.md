@@ -24,7 +24,7 @@ This work does not support, undermine or promote any specific political ideology
 
 # Who
 
-In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I hold an MSc in Cyber Security from Wolverhampton Cyber Research Institute (WCRI), where I focused on nation-state cyber threats and the use of artificial intelligence to predict threat movement within networks. I have a technical background in Computer Science (BSc). You can find me @KrisBolton on Twitter or <a href="mailto:cyberwarfaretoday@gmail.com">contact me via email</a>.
+In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I studied MSc Cyber Security at Wolverhampton Cyber Research Institute (WCRI), where I focused on nation-state cyber threats and the use of artificial intelligence to predict threat movement within networks. I have a technical background in computer science (BSc). You can find me @krisbolton on Twitter or <a href="mailto:cyberwarfaretoday@gmail.com">contact me via email</a>.
 
 # Support
 
