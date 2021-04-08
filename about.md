@@ -28,9 +28,9 @@ In the interest of transparency, I will introduce myself. Hi, I'm Kris Bolton. I
 
 # Support
 
-This project is an on-going research effort, supported via GitHub Sponsors. Sponsorship allows me to dedicate more time and resources to the completion and improvement of the project. If at any point you find yourself learning something new or find the content particularly interesting, please do consider becoming a sponsor.
+This project is an on-going research effort, supported buy readers via GitHub Sponsors. With GitHub Sponsors, 100% of your pledge goes directly to the creator. Your sponsorship allows me to dedicate more time and resources to the completion and improvement of the project. If at any point you find yourself learning something new or you want to support the aim, to educate more people about cyber warfare without hyperbole, please do consider becoming a sponsor.
 
-In return for your patronage you will get access to content previews, discussions, Q&A and vote on which content comes next. You will gain access to all previous discussions and Q&A as well.
+Sponsors get accesss to a private Discord for discussion, content previews, Q&A and to vote on which content comes next. You will gain access to all previous discussions and Q&A.
 
 ---
 
