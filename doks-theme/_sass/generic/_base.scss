@@ -125,6 +125,10 @@ a:active {
     color: $color-material-blue;
 }
 
+a.glossary {
+    border-bottom: .0625em dotted;
+}
+
 /* ----- Reference Links (sup) ----- */
 
 sup a {
